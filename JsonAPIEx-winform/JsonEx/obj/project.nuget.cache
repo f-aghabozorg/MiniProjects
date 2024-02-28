@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ju2JAHJqrIeBAz/vNzgOCeIQtH+LRs91zHyluuc4f1o+e1Y2fZTTM6ELNjRTZbY4ZPUHei33puuwGIaMO+ufNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\computer engineer\\Desktop\\JsonEx\\JsonEx\\JsonEx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\computer engineer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

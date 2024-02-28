@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuRcjjel7GPb34m7IwxJTu7v71igX0SA81PGIZ4zijz6XPfWUnTpPY/4PFB2A+eVZy1xd08LkeQ37buyPvIKTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\computer engineer\\Desktop\\LINQ_WebApp\\LINQ_WebApp\\LINQ_WebApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: An error occurred while sending the request."
+    }
+  ]
+}
