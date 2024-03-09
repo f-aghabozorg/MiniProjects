@@ -58,3 +58,34 @@ C:\Users\computer engineer\Desktop\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0
 C:\Users\computer engineer\Desktop\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.pdb
 C:\Users\computer engineer\Desktop\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.genruntimeconfig.cache
 C:\Users\computer engineer\Desktop\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\ref\LINQ_WebApp.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\LINQ_WebApp.staticwebassets.runtime.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\LINQ_WebApp.exe
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\LINQ_WebApp.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\LINQ_WebApp.runtimeconfig.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\LINQ_WebApp.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\bin\Debug\net6.0\LINQ_WebApp.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.RazorAssemblyInfo.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.RazorAssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\staticwebassets\msbuild.LINQ_WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.LINQ_WebApp.props
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LINQ_WebApp.props
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LINQ_WebApp.props
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\scopedcss\bundle\LINQ_WebApp.styles.css
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\scopedcss\projectbundle\LINQ_WebApp.bundle.scp.css
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\refint\LINQ_WebApp.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\LINQ_WebApp.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\Rira_LINQ_WebApp\LINQ_WebApp\obj\Debug\net6.0\ref\LINQ_WebApp.dll
