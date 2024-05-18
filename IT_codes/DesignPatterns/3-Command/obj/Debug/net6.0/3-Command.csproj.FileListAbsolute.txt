@@ -1,0 +1,11 @@
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\bin\Debug\net6.0\3-Command.deps.json
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\bin\Debug\net6.0\3-Command.dll
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\bin\Debug\net6.0\3-Command.pdb
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\3-Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\3-Command.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\3-Command.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\3-Command.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\3-Command.dll
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\refint\3-Command.dll
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\3-Command.pdb
+C:\Users\computer engineer\Desktop\DesignPatterns\3-Command\obj\Debug\net6.0\ref\3-Command.dll

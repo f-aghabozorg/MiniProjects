@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesignPatterns/1.0.0": {
+        "dependencies": {
+          "1-Mediator": "1.0.0",
+          "2-Bridge": "1.0.0",
+          "3-Command": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.dll": {}
+        }
+      },
+      "1-Mediator/1.0.0": {
+        "runtime": {
+          "1-Mediator.dll": {}
+        }
+      },
+      "2-Bridge/1.0.0": {
+        "runtime": {
+          "2-Bridge.dll": {}
+        }
+      },
+      "3-Command/1.0.0": {
+        "runtime": {
+          "3-Command.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "1-Mediator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "2-Bridge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3-Command/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

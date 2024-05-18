@@ -1,0 +1,4 @@
+C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EIT_Ex_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}|EIT_Ex_WebApp\\EIT_Ex_WebApp.csproj|D:\\EIT_Ex_WebApp\\eit_ex_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}|EIT_Ex_WebApp\\EIT_Ex_WebApp.csproj|solutionrelative:eit_ex_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|d:\\eit_ex_webapp\\ex_8_contactprojectda\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|solutionrelative:ex_8_contactprojectda\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|D:\\EIT_Ex_WebApp\\ex_8_contactprojectda\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|solutionrelative:ex_8_contactprojectda\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|D:\\EIT_Ex_WebApp\\ex_8_contactprojectda\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|solutionrelative:ex_8_contactprojectda\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|D:\\EIT_Ex_WebApp\\ex_8_contactprojectda\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|solutionrelative:ex_8_contactprojectda\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|D:\\EIT_Ex_WebApp\\ex_8_contactprojectda\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}|Ex_8_ContactProjectDA\\Ex_8_ContactProjectDA.csproj|solutionrelative:ex_8_contactprojectda\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C29B61F-B23A-4B46-9EA4-F820ADC291AB}|Ex_8_ContactProjectBL\\Ex_8_ContactProjectBL.csproj|D:\\EIT_Ex_WebApp\\ex_8_contactprojectbl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C29B61F-B23A-4B46-9EA4-F820ADC291AB}|Ex_8_ContactProjectBL\\Ex_8_ContactProjectBL.csproj|solutionrelative:ex_8_contactprojectbl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C29B61F-B23A-4B46-9EA4-F820ADC291AB}|Ex_8_ContactProjectBL\\Ex_8_ContactProjectBL.csproj|D:\\EIT_Ex_WebApp\\ex_8_contactprojectbl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C29B61F-B23A-4B46-9EA4-F820ADC291AB}|Ex_8_ContactProjectBL\\Ex_8_ContactProjectBL.csproj|solutionrelative:ex_8_contactprojectbl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\Admin.cs",
+              "RelativeDocumentMoniker": "Ex_8_ContactProjectDA\\Admin.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\Admin.cs",
+              "RelativeToolTip": "Ex_8_ContactProjectDA\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:12:10.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactContext.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\ContactContext.cs",
+              "RelativeDocumentMoniker": "Ex_8_ContactProjectDA\\ContactContext.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\ContactContext.cs",
+              "RelativeToolTip": "Ex_8_ContactProjectDA\\ContactContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:12:06.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\IEntity.cs",
+              "RelativeDocumentMoniker": "Ex_8_ContactProjectDA\\IEntity.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\IEntity.cs",
+              "RelativeToolTip": "Ex_8_ContactProjectDA\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:12:04.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Number.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\Number.cs",
+              "RelativeDocumentMoniker": "Ex_8_ContactProjectDA\\Number.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\Number.cs",
+              "RelativeToolTip": "Ex_8_ContactProjectDA\\Number.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:12:02.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\User.cs",
+              "RelativeDocumentMoniker": "Ex_8_ContactProjectDA\\User.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectDA\\User.cs",
+              "RelativeToolTip": "Ex_8_ContactProjectDA\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:11:58.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseBL.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectBL\\BaseBL.cs",
+              "RelativeDocumentMoniker": "Ex_8_ContactProjectBL\\BaseBL.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectBL\\BaseBL.cs",
+              "RelativeToolTip": "Ex_8_ContactProjectBL\\BaseBL.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwE8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:56:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectBL\\UserBL.cs",
+              "RelativeDocumentMoniker": "Ex_8_ContactProjectBL\\UserBL.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\Ex_8_ContactProjectBL\\UserBL.cs",
+              "RelativeToolTip": "Ex_8_ContactProjectBL\\UserBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:51:08.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\EIT_Ex_WebApp\\EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\EIT_Ex_WebApp\\EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:29:55.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

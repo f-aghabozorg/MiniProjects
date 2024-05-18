@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "1-Mediator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/1-Mediator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/1-Mediator.dll": {}
+        }
+      },
+      "2-Bridge/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/2-Bridge.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/2-Bridge.dll": {}
+        }
+      },
+      "3-Command/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/3-Command.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/3-Command.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1-Mediator/1.0.0": {
+      "type": "project",
+      "path": "../Mediator/1-Mediator.csproj",
+      "msbuildProject": "../Mediator/1-Mediator.csproj"
+    },
+    "2-Bridge/1.0.0": {
+      "type": "project",
+      "path": "../Bridge/2-Bridge.csproj",
+      "msbuildProject": "../Bridge/2-Bridge.csproj"
+    },
+    "3-Command/1.0.0": {
+      "type": "project",
+      "path": "../3-Command/3-Command.csproj",
+      "msbuildProject": "../3-Command/3-Command.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "1-Mediator >= 1.0.0",
+      "2-Bridge >= 1.0.0",
+      "3-Command >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\computer engineer\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectName": "DesignPatterns",
+      "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\DesignPatterns\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj"
+            },
+            "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Bridge\\2-Bridge.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Bridge\\2-Bridge.csproj"
+            },
+            "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Mediator\\1-Mediator.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Mediator\\1-Mediator.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
