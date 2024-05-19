@@ -1,5 +1,6 @@
 ﻿
 using _3_Command;
+using _4_Strategy;
 using Bridge;
 using Mediator;
 using System;
@@ -65,6 +66,26 @@ commands.ForEach(c => c());
     if (account.Balance >= amount)
         account.Balance -= amount;
 }
+
+//strategy
+var tp = new TextProcessor();
+tp.SetOutputFormat(OutputFormat.Markdown);
+tp.AppendList(new[] { "foo", "bar", "baz" });
+Console.WriteLine(tp);
+// Output:
+// * foo
+// * bar
+// * baz
+tp.Clear(); // erases underlying buffer
+tp.SetOutputFormat(OutputFormat.Html);
+tp.AppendList(new[] { "foo", "bar", "baz" });
+Console.WriteLine(tp);
+// Output:
+// <ul>
+// <li>foo</li>
+// <li>bar</li>
+// <li>baz</li>
+// </ul>
 
 
 Console.WriteLine("Hello, World!");

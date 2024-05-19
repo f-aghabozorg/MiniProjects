@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{4027BA78-00FA-48BA-B3BA-CA39762BC481}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{4027BA78-00FA-48BA-B3BA-CA39762BC481}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Bridge", "Bridge\2-Bridge.csproj", "{8D2354F9-2270-466C-923E-84FC8C316FFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Mediator", "Mediator\1-Mediator.csproj", "{F1F4CF47-AD8D-4C3A-98A6-E975A66B37BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Command", "3-Command\3-Command.csproj", "{3C387BBA-550C-4E01-ABF2-03F480FEBF27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-Command", "3-Command\3-Command.csproj", "{3C387BBA-550C-4E01-ABF2-03F480FEBF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Strategy", "4-Strategy\4-Strategy.csproj", "{EBF49020-60A0-400F-9469-197A71218D76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3C387BBA-550C-4E01-ABF2-03F480FEBF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C387BBA-550C-4E01-ABF2-03F480FEBF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C387BBA-550C-4E01-ABF2-03F480FEBF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF49020-60A0-400F-9469-197A71218D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF49020-60A0-400F-9469-197A71218D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF49020-60A0-400F-9469-197A71218D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF49020-60A0-400F-9469-197A71218D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

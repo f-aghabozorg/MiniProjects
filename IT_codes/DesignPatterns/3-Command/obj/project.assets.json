@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj",
+      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj",
       "projectName": "3-Command",
-      "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj",
+      "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj",
       "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\obj\\",
+      "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",

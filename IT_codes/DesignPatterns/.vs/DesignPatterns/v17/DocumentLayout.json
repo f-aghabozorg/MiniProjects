@@ -1,9 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\",
+  "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C387BBA-550C-4E01-ABF2-03F480FEBF27}|3-Command\\3-Command.csproj|c:\\users\\computer engineer\\desktop\\designpatterns\\3-command\\3-command.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\markdownliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\markdownliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\htmlliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\htmlliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\iliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\iliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C387BBA-550C-4E01-ABF2-03F480FEBF27}|3-Command\\3-Command.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\3-command\\3-command.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3C387BBA-550C-4E01-ABF2-03F480FEBF27}|3-Command\\3-Command.csproj|solutionrelative:3-command\\3-command.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -14,15 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarkDownListStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\MarkDownListStrategy.cs",
+              "RelativeDocumentMoniker": "4-Strategy\\MarkDownListStrategy.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\MarkDownListStrategy.cs",
+              "RelativeToolTip": "4-Strategy\\MarkDownListStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:41:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlListStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\HtmlListStrategy.cs",
+              "RelativeDocumentMoniker": "4-Strategy\\HtmlListStrategy.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\HtmlListStrategy.cs",
+              "RelativeToolTip": "4-Strategy\\HtmlListStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:40:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\TextProcessor.cs",
+              "RelativeDocumentMoniker": "4-Strategy\\TextProcessor.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\TextProcessor.cs",
+              "RelativeToolTip": "4-Strategy\\TextProcessor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:39:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IListStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\IListStrategy.cs",
+              "RelativeDocumentMoniker": "4-Strategy\\IListStrategy.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\IListStrategy.cs",
+              "RelativeToolTip": "4-Strategy\\IListStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:37:18.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "3-Command",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAFEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:22:03.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3-Command.csproj",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj",
               "RelativeDocumentMoniker": "3-Command\\3-Command.csproj",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj",
               "RelativeToolTip": "3-Command\\3-Command.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

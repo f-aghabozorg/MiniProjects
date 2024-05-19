@@ -31,6 +31,16 @@
         "runtime": {
           "bin/placeholder/3-Command.dll": {}
         }
+      },
+      "4-Strategy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/4-Strategy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/4-Strategy.dll": {}
+        }
       }
     }
   },
@@ -49,13 +59,19 @@
       "type": "project",
       "path": "../3-Command/3-Command.csproj",
       "msbuildProject": "../3-Command/3-Command.csproj"
+    },
+    "4-Strategy/1.0.0": {
+      "type": "project",
+      "path": "../4-Strategy/4-Strategy.csproj",
+      "msbuildProject": "../4-Strategy/4-Strategy.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "1-Mediator >= 1.0.0",
       "2-Bridge >= 1.0.0",
-      "3-Command >= 1.0.0"
+      "3-Command >= 1.0.0",
+      "4-Strategy >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -64,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\DesignPatterns\\obj\\",
+      "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,14 +101,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj": {
-              "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\3-Command\\3-Command.csproj"
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj"
             },
-            "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Bridge\\2-Bridge.csproj": {
-              "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Bridge\\2-Bridge.csproj"
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\4-Strategy.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\4-Strategy.csproj"
             },
-            "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Mediator\\1-Mediator.csproj": {
-              "projectPath": "C:\\Users\\computer engineer\\Desktop\\DesignPatterns\\Mediator\\1-Mediator.csproj"
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\2-Bridge.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\2-Bridge.csproj"
+            },
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\1-Mediator.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\1-Mediator.csproj"
             }
           }
         }

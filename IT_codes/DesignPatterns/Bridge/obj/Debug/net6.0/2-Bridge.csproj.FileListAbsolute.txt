@@ -1,0 +1,23 @@
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\bin\Debug\net6.0\2-Bridge.deps.json
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\bin\Debug\net6.0\2-Bridge.dll
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\bin\Debug\net6.0\2-Bridge.pdb
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\2-Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\2-Bridge.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\2-Bridge.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\2-Bridge.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\2-Bridge.dll
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\refint\2-Bridge.dll
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\2-Bridge.pdb
+C:\Users\computer engineer\Desktop\DesignPatterns\Bridge\obj\Debug\net6.0\ref\2-Bridge.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\bin\Debug\net6.0\2-Bridge.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\bin\Debug\net6.0\2-Bridge.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\bin\Debug\net6.0\2-Bridge.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\2-Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\2-Bridge.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\2-Bridge.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\2-Bridge.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\2-Bridge.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\2-Bridge.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\refint\2-Bridge.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\2-Bridge.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\2-Bridge\obj\Debug\net6.0\ref\2-Bridge.dll

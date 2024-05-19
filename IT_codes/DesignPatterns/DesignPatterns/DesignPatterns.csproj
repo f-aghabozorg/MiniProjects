@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\3-Command\3-Command.csproj" />
+    <ProjectReference Include="..\4-Strategy\4-Strategy.csproj" />
     <ProjectReference Include="..\Bridge\2-Bridge.csproj" />
     <ProjectReference Include="..\Mediator\1-Mediator.csproj" />
   </ItemGroup>
