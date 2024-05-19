@@ -1,0 +1,12 @@
+E:\EIT_Ex_WebApp\RecursiveFunction\bin\Debug\RecursiveFunction.dll.config
+E:\EIT_Ex_WebApp\RecursiveFunction\bin\Debug\RecursiveFunction.dll
+E:\EIT_Ex_WebApp\RecursiveFunction\bin\Debug\RecursiveFunction.pdb
+E:\EIT_Ex_WebApp\RecursiveFunction\bin\Debug\EntityFramework.dll
+E:\EIT_Ex_WebApp\RecursiveFunction\bin\Debug\EntityFramework.SqlServer.dll
+E:\EIT_Ex_WebApp\RecursiveFunction\bin\Debug\EntityFramework.xml
+E:\EIT_Ex_WebApp\RecursiveFunction\bin\Debug\EntityFramework.SqlServer.xml
+E:\EIT_Ex_WebApp\RecursiveFunction\obj\Debug\RecursiveFunction.csproj.AssemblyReference.cache
+E:\EIT_Ex_WebApp\RecursiveFunction\obj\Debug\RecursiveFunction.csproj.CoreCompileInputs.cache
+E:\EIT_Ex_WebApp\RecursiveFunction\obj\Debug\Recursiv.8882CB92.Up2Date
+E:\EIT_Ex_WebApp\RecursiveFunction\obj\Debug\RecursiveFunction.dll
+E:\EIT_Ex_WebApp\RecursiveFunction\obj\Debug\RecursiveFunction.pdb

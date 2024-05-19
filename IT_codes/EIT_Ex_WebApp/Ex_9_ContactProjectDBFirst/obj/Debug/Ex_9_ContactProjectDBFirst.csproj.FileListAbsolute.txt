@@ -1,0 +1,12 @@
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.csproj.AssemblyReference.cache
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.csproj.CoreCompileInputs.cache
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\Ex_9_ContactProjectDBFirst.dll.config
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\Ex_9_ContactProjectDBFirst.dll
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\Ex_9_ContactProjectDBFirst.pdb
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.dll
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.xml
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_Con.66BDEEFE.Up2Date
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.dll
+E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.pdb

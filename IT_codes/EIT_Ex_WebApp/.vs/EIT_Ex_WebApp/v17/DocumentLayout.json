@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EIT_Ex_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|e:\\eit_ex_webapp\\ex_11_entekhabreshtebl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|solutionrelative:ex_11_entekhabreshtebl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}|EIT_Ex_WebApp\\EIT_Ex_WebApp.csproj|e:\\eit_ex_webapp\\eit_ex_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}|EIT_Ex_WebApp\\EIT_Ex_WebApp.csproj|solutionrelative:eit_ex_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|e:\\eit_ex_webapp\\recursivefunction\\fibbonachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|solutionrelative:recursivefunction\\fibbonachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|e:\\eit_ex_webapp\\recursivefunction\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|solutionrelative:recursivefunction\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF7F6B2-731D-4C00-B6A5-7C9381584940}|EntekhabReshte\\EntekhabReshte.csproj|e:\\eit_ex_webapp\\entekhabreshte\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF7F6B2-731D-4C00-B6A5-7C9381584940}|EntekhabReshte\\EntekhabReshte.csproj|solutionrelative:entekhabreshte\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fibbonachi.cs",
+              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Fibbonachi.cs",
+              "RelativeDocumentMoniker": "RecursiveFunction\\Fibbonachi.cs",
+              "ToolTip": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Fibbonachi.cs",
+              "RelativeToolTip": "RecursiveFunction\\Fibbonachi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:20:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Factorial.cs",
+              "RelativeDocumentMoniker": "RecursiveFunction\\Factorial.cs",
+              "ToolTip": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Factorial.cs",
+              "RelativeToolTip": "RecursiveFunction\\Factorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:20:02.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseBL.cs",
+              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\BaseBL.cs",
+              "RelativeDocumentMoniker": "Ex_11_EntekhabReshteBL\\BaseBL.cs",
+              "ToolTip": "E:\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\BaseBL.cs",
+              "RelativeToolTip": "Ex_11_EntekhabReshteBL\\BaseBL.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:08:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\EntekhabReshte\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "EntekhabReshte\\Default.aspx.cs",
+              "ToolTip": "E:\\EIT_Ex_WebApp\\EntekhabReshte\\Default.aspx.cs",
+              "RelativeToolTip": "EntekhabReshte\\Default.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:07:27.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\EIT_Ex_WebApp\\EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EIT_Ex_WebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwF8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:11.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

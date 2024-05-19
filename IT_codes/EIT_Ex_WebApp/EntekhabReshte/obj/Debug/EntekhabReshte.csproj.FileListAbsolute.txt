@@ -1,0 +1,2 @@
+E:\EIT_Ex_WebApp\EntekhabReshte\obj\Debug\EntekhabReshte.csproj.AssemblyReference.cache
+E:\EIT_Ex_WebApp\EntekhabReshte\obj\Debug\EntekhabReshte.csproj.CoreCompileInputs.cache

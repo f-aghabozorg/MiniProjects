@@ -1,0 +1,28 @@
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.dll
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.pdb
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.dll
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.dll
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.pdb
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.xml
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_Con.C1112B93.Up2Date
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.dll
+C:\Users\computer engineer\Desktop\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.pdb
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.dll.config
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.dll
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.pdb
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.dll
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.dll
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.dll
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.pdb
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.dll.config
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.xml
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.xml
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.csproj.AssemblyReference.cache
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.csproj.CoreCompileInputs.cache
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_Con.C1112B93.Up2Date
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.dll
+E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.pdb
