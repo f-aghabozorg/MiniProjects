@@ -1,0 +1,12 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\bin\Debug\net6.0\4-Strategy.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\bin\Debug\net6.0\4-Strategy.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\bin\Debug\net6.0\4-Strategy.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\4-Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\4-Strategy.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\4-Strategy.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\4-Strategy.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\4-Strategy.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\4-Strategy.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\refint\4-Strategy.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\4-Strategy.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\4-Strategy\obj\Debug\net6.0\ref\4-Strategy.dll

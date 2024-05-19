@@ -8,15 +8,14 @@ namespace _3_Command
 {
     public class BankAccount
     {
-        private int balance;
-        public int Balance;
-        private int overdraftLimit = -500;
-        public void Deposit(int amount)
+        private int balance; //موجودی
+        private int overdraftLimit = -500; //محدودیت اضافه برداشت
+        public void Deposit(int amount)    //سپرده
         {
             balance += amount;
             Console.WriteLine($"Deposited ${amount}, balance is now {balance}");
         }
-        public bool Withdraw(int amount)
+        public bool Withdraw(int amount)    //برداشت
         {
             if (balance - amount >= overdraftLimit)
             {

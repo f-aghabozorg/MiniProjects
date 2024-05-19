@@ -10,7 +10,8 @@
         "dependencies": {
           "1-Mediator": "1.0.0",
           "2-Bridge": "1.0.0",
-          "3-Command": "1.0.0"
+          "3-Command": "1.0.0",
+          "4-Strategy": "1.0.0"
         },
         "runtime": {
           "DesignPatterns.dll": {}
@@ -29,6 +30,11 @@
       "3-Command/1.0.0": {
         "runtime": {
           "3-Command.dll": {}
+        }
+      },
+      "4-Strategy/1.0.0": {
+        "runtime": {
+          "4-Strategy.dll": {}
         }
       }
     }
@@ -50,6 +56,11 @@
       "sha512": ""
     },
     "3-Command/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "4-Strategy/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

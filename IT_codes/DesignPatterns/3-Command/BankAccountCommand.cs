@@ -18,6 +18,9 @@ namespace _3_Command
         private int amount;
         public BankAccountCommand(BankAccount account, Action action, int amount)
         {
+            this.account = account;
+            this.action = action;
+            this.amount = amount;
         }
         public void Call()
         {
@@ -41,11 +44,11 @@ namespace _3_Command
             switch (action)
             {
                 case Action.Deposit:
-                    account.Deposit(amount); // assumed to always succeed
+                    account.Deposit(-amount); // خودم منفی گذاشتم !!!
                     succeeded = true;
                     break;
                 case Action.Withdraw:
-                    succeeded = account.Withdraw(amount);
+                    succeeded = account.Withdraw(-amount); // خودم منفی گذاشتم !!!
                     break;
                 default:
                     throw new ArgumentOutOfRangeException();

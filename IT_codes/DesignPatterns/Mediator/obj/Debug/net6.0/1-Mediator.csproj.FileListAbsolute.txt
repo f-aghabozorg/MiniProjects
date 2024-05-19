@@ -9,3 +9,15 @@ C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\1-Me
 C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\refint\1-Mediator.dll
 C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.pdb
 C:\Users\computer engineer\Desktop\DesignPatterns\Mediator\obj\Debug\net6.0\ref\1-Mediator.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\bin\Debug\net6.0\1-Mediator.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\bin\Debug\net6.0\1-Mediator.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\bin\Debug\net6.0\1-Mediator.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\refint\1-Mediator.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\1-Mediator.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\Mediator\obj\Debug\net6.0\ref\1-Mediator.dll

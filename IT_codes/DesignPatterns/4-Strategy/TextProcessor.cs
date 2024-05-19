@@ -10,6 +10,7 @@ namespace _4_Strategy
     {
         private StringBuilder sb = new StringBuilder();
         private IListStrategy listStrategy;
+
         public void AppendList(IEnumerable<string> items)
         {
             listStrategy.Start(sb);
@@ -17,7 +18,7 @@ namespace _4_Strategy
                 listStrategy.AddListItem(sb, item);
             listStrategy.End(sb);
         }
-        public override string ToString() => sb.ToString();
+
         public void SetOutputFormat(OutputFormat format)
         {
             switch (format)
@@ -32,5 +33,11 @@ namespace _4_Strategy
                     throw new ArgumentOutOfRangeException(nameof(format), format, null);
             }
         }
+        public void Clear()
+        {
+            sb = new StringBuilder();
+        }
+
+        public override string ToString() => sb.ToString();
     }
 }
