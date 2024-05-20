@@ -1,2 +1,17 @@
 E:\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\obj\Debug\Ex_11_EntekhabReshteBL.csproj.AssemblyReference.cache
 E:\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\obj\Debug\Ex_11_EntekhabReshteBL.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\obj\Debug\Ex_11_EntekhabReshteBL.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\obj\Debug\Ex_11_EntekhabReshteBL.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\Ex_11_EntekhabReshteBL.dll.config
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\Ex_11_EntekhabReshteBL.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\Ex_11_EntekhabReshteBL.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\EntityFramework.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\Ex_11_EntekhabReshteDA.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\Ex_11_EntekhabReshteDA.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\Ex_11_EntekhabReshteDA.dll.config
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\EntityFramework.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\obj\Debug\Ex_11_En.CD6A865E.Up2Date
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\obj\Debug\Ex_11_EntekhabReshteBL.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_11_EntekhabReshteBL\obj\Debug\Ex_11_EntekhabReshteBL.pdb

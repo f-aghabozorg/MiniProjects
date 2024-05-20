@@ -12,9 +12,5 @@ namespace _4_Strategy
         void AddListItem(StringBuilder sb, string item);
         void End(StringBuilder sb);
     }
-    public enum OutputFormat
-    {
-        Markdown,
-        Html
-    }
+
 }

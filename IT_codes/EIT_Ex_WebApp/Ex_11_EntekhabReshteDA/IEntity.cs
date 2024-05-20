@@ -8,5 +8,6 @@ namespace Ex_11_EntekhabReshteDA
 {
     public interface IEntity
     {
+        int Id { get; }
     }
 }

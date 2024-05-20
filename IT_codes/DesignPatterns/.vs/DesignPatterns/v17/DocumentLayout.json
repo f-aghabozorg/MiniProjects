@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\iliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\iliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\textprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|solutionrelative:bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\markdownliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\markdownliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\bridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|solutionrelative:bridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\4-strategy\\htmlliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|4-Strategy\\4-Strategy.csproj|solutionrelative:4-strategy\\htmlliststrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|solutionrelative:bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IListStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\IListStrategy.cs",
-              "RelativeDocumentMoniker": "4-Strategy\\IListStrategy.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\IListStrategy.cs",
-              "RelativeToolTip": "4-Strategy\\IListStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:12:46.558Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HtmlListStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\HtmlListStrategy.cs",
-              "RelativeDocumentMoniker": "4-Strategy\\HtmlListStrategy.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\HtmlListStrategy.cs",
-              "RelativeToolTip": "4-Strategy\\HtmlListStrategy.cs",
+              "DocumentIndex": 1,
+              "Title": "VectorRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\VectorRenderer.cs",
+              "RelativeDocumentMoniker": "Bridge\\VectorRenderer.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\VectorRenderer.cs",
+              "RelativeToolTip": "Bridge\\VectorRenderer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:12:49.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MarkDownListStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\MarkDownListStrategy.cs",
-              "RelativeDocumentMoniker": "4-Strategy\\MarkDownListStrategy.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\MarkDownListStrategy.cs",
-              "RelativeToolTip": "4-Strategy\\MarkDownListStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:12:42.118Z",
+              "WhenOpened": "2024-05-20T06:55:11.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TextProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\TextProcessor.cs",
-              "RelativeDocumentMoniker": "4-Strategy\\TextProcessor.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\TextProcessor.cs",
-              "RelativeToolTip": "4-Strategy\\TextProcessor.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAlAAAA",
+              "Title": "IRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\IRenderer.cs",
+              "RelativeDocumentMoniker": "Bridge\\IRenderer.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\IRenderer.cs",
+              "RelativeToolTip": "Bridge\\IRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:12:22.021Z",
+              "WhenOpened": "2024-05-20T06:55:03.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\Circle.cs",
+              "RelativeDocumentMoniker": "Bridge\\Circle.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\Circle.cs",
+              "RelativeToolTip": "Bridge\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:52:01.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
               "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAuwFwAAAAWAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T13:12:24.327Z",
+              "WhenOpened": "2024-05-20T06:51:56.969Z",
               "EditorCaption": ""
             }
           ]

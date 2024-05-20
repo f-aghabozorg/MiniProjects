@@ -1,26 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\EIT_Ex_WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|e:\\eit_ex_webapp\\ex_11_entekhabreshtebl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|solutionrelative:ex_11_entekhabreshtebl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}|EIT_Ex_WebApp\\EIT_Ex_WebApp.csproj|e:\\eit_ex_webapp\\eit_ex_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}|EIT_Ex_WebApp\\EIT_Ex_WebApp.csproj|solutionrelative:eit_ex_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|e:\\eit_ex_webapp\\recursivefunction\\fibbonachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|solutionrelative:recursivefunction\\fibbonachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|e:\\eit_ex_webapp\\recursivefunction\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB38B439-7DBD-4CDC-9FA8-6BB322771457}|RecursiveFunction\\RecursiveFunction.csproj|solutionrelative:recursivefunction\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FF7F6B2-731D-4C00-B6A5-7C9381584940}|EntekhabReshte\\EntekhabReshte.csproj|e:\\eit_ex_webapp\\entekhabreshte\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FF7F6B2-731D-4C00-B6A5-7C9381584940}|EntekhabReshte\\EntekhabReshte.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\entekhabreshte\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FF7F6B2-731D-4C00-B6A5-7C9381584940}|EntekhabReshte\\EntekhabReshte.csproj|solutionrelative:entekhabreshte\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3300D0B0-D25B-4583-ACCA-66F521D586F3}|Ex_12_1_TPH_EntekhabReshteBL\\Ex_12_1_TPH_EntekhabReshteBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_1_tph_entekhabreshtebl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3300D0B0-D25B-4583-ACCA-66F521D586F3}|Ex_12_1_TPH_EntekhabReshteBL\\Ex_12_1_TPH_EntekhabReshteBL.csproj|solutionrelative:ex_12_1_tph_entekhabreshtebl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3300D0B0-D25B-4583-ACCA-66F521D586F3}|Ex_12_1_TPH_EntekhabReshteBL\\Ex_12_1_TPH_EntekhabReshteBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_1_tph_entekhabreshtebl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3300D0B0-D25B-4583-ACCA-66F521D586F3}|Ex_12_1_TPH_EntekhabReshteBL\\Ex_12_1_TPH_EntekhabReshteBL.csproj|solutionrelative:ex_12_1_tph_entekhabreshtebl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3300D0B0-D25B-4583-ACCA-66F521D586F3}|Ex_12_1_TPH_EntekhabReshteBL\\Ex_12_1_TPH_EntekhabReshteBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_1_tph_entekhabreshtebl\\teacherbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3300D0B0-D25B-4583-ACCA-66F521D586F3}|Ex_12_1_TPH_EntekhabReshteBL\\Ex_12_1_TPH_EntekhabReshteBL.csproj|solutionrelative:ex_12_1_tph_entekhabreshtebl\\teacherbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_entekhabreshteda\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|solutionrelative:ex_12_entekhabreshteda\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_entekhabreshteda\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|solutionrelative:ex_12_entekhabreshteda\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_entekhabreshteda\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|solutionrelative:ex_12_entekhabreshteda\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_entekhabreshteda\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|solutionrelative:ex_12_entekhabreshteda\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_12_entekhabreshteda\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799FD224-E409-4684-9BAD-FB4A03586047}|Ex_12_EntekhabReshteDA\\Ex_12_1_TPH_EntekhabReshteDA.csproj|solutionrelative:ex_12_entekhabreshteda\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +46,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fibbonachi.cs",
-              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Fibbonachi.cs",
-              "RelativeDocumentMoniker": "RecursiveFunction\\Fibbonachi.cs",
-              "ToolTip": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Fibbonachi.cs",
-              "RelativeToolTip": "RecursiveFunction\\Fibbonachi.cs",
+              "DocumentIndex": 7,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\IEntity.cs",
+              "RelativeDocumentMoniker": "Ex_12_EntekhabReshteDA\\IEntity.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\IEntity.cs",
+              "RelativeToolTip": "Ex_12_EntekhabReshteDA\\IEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T08:20:25.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Factorial.cs",
-              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Factorial.cs",
-              "RelativeDocumentMoniker": "RecursiveFunction\\Factorial.cs",
-              "ToolTip": "E:\\EIT_Ex_WebApp\\RecursiveFunction\\Factorial.cs",
-              "RelativeToolTip": "RecursiveFunction\\Factorial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T08:20:02.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseBL.cs",
-              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\BaseBL.cs",
-              "RelativeDocumentMoniker": "Ex_11_EntekhabReshteBL\\BaseBL.cs",
-              "ToolTip": "E:\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\BaseBL.cs",
-              "RelativeToolTip": "Ex_11_EntekhabReshteBL\\BaseBL.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAB3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T08:08:50.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\EntekhabReshte\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "EntekhabReshte\\Default.aspx.cs",
-              "ToolTip": "E:\\EIT_Ex_WebApp\\EntekhabReshte\\Default.aspx.cs",
-              "RelativeToolTip": "EntekhabReshte\\Default.aspx.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T08:07:27.423Z",
+              "WhenOpened": "2024-05-20T08:27:19.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\EIT_Ex_WebApp\\EIT_Ex_WebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EIT_Ex_WebApp\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\EIT_Ex_WebApp\\EIT_Ex_WebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EIT_Ex_WebApp\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAYwF8AAAA5AAAA",
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_1_TPH_EntekhabReshteBL\\StudentBL.cs",
+              "RelativeDocumentMoniker": "Ex_12_1_TPH_EntekhabReshteBL\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_1_TPH_EntekhabReshteBL\\StudentBL.cs",
+              "RelativeToolTip": "Ex_12_1_TPH_EntekhabReshteBL\\StudentBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T08:06:11.779Z",
+              "WhenOpened": "2024-05-20T08:13:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_1_TPH_EntekhabReshteBL\\TeacherBL.cs",
+              "RelativeDocumentMoniker": "Ex_12_1_TPH_EntekhabReshteBL\\TeacherBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_1_TPH_EntekhabReshteBL\\TeacherBL.cs",
+              "RelativeToolTip": "Ex_12_1_TPH_EntekhabReshteBL\\TeacherBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:13:03.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EntekhabReshte\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "EntekhabReshte\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EntekhabReshte\\Default.aspx.cs",
+              "RelativeToolTip": "EntekhabReshte\\Default.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:09:23.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\Teacher.cs",
+              "RelativeDocumentMoniker": "Ex_12_EntekhabReshteDA\\Teacher.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\Teacher.cs",
+              "RelativeToolTip": "Ex_12_EntekhabReshteDA\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:57:55.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\User.cs",
+              "RelativeDocumentMoniker": "Ex_12_EntekhabReshteDA\\User.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\User.cs",
+              "RelativeToolTip": "Ex_12_EntekhabReshteDA\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:57:53.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\Student.cs",
+              "RelativeDocumentMoniker": "Ex_12_EntekhabReshteDA\\Student.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\Student.cs",
+              "RelativeToolTip": "Ex_12_EntekhabReshteDA\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:57:40.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\Model.cs",
+              "RelativeDocumentMoniker": "Ex_12_EntekhabReshteDA\\Model.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_EntekhabReshteDA\\Model.cs",
+              "RelativeToolTip": "Ex_12_EntekhabReshteDA\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:52:17.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_1_TPH_EntekhabReshteBL\\BaseBL.cs",
+              "RelativeDocumentMoniker": "Ex_12_1_TPH_EntekhabReshteBL\\BaseBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_1_TPH_EntekhabReshteBL\\BaseBL.cs",
+              "RelativeToolTip": "Ex_12_1_TPH_EntekhabReshteBL\\BaseBL.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAQwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:50:24.249Z",
               "EditorCaption": ""
             }
           ]

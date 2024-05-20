@@ -7,32 +7,33 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Ex_11_EntekhabReshteDA.Model;
 
 namespace EntekhabReshteBL
 {
     public class BaseBL<T> where T : class, IEntity
     {
         #region Property
-        private ContactDBEntities myDB;
+        private EntekhabReshteCotext myDB;
 
-        public ContactDBEntities MyDB
+        public EntekhabReshteCotext MyDB
         {
             get
             {
                 if (myDB == null)
-                    myDB = new ContactDBEntities();
+                    myDB = new EntekhabReshteCotext();
                 return myDB;
             }
             set { myDB = value; }
         }
-        private string connectionString = null;
+        private string connectionString = "";
 
         public string ConnectionString
         {
             get
             {
                 if (connectionString == null)
-                    connectionString = System.Web.Configuration.WebConfigurationManager.ConnectionStrings["ContactConnectionString"].ConnectionString;                return connectionString;
+                    connectionString = System.Web.Configuration.WebConfigurationManager.ConnectionStrings["MyConnectionString"].ConnectionString;                return connectionString;
             }
             set { connectionString = value; }
         }

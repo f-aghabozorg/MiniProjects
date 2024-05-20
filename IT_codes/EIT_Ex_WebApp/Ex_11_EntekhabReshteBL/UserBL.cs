@@ -9,9 +9,9 @@ namespace EntekhabReshteBL
 {
     public class UserBL : BaseBL<User>
     {
-        public User Insert(string fName, string lname, string mobileNumber, int sCode)
+        public User Insert(string fName, string lname, string mobileNumber)
         {
-            return base.Insert(new Student
+            return base.Insert(new User
             {
                 FirstName = fName,
                 LastName = lname,

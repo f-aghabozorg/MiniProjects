@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 namespace Ex_11_EntekhabReshteDA
 {
     [Table("Student")]
-    public class Student : User //: IEntity
+    public class Student : IEntity
     {
         [Required]
-        public int Id { get; set; }
+        public new int Id { get; set; }
         public int StudentCode { get; set; }
         public virtual ICollection<STCourse> STCourse { get; set; }
         public User User { get; set; }

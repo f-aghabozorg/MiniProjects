@@ -257,6 +257,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Ex_11_2_TPT_EntekhabReshteBL\Ex_11_2_TPT_EntekhabReshteBL.csproj">
+      <Project>{da840df2-a649-497c-9e83-809beed92154}</Project>
+      <Name>Ex_11_2_TPT_EntekhabReshteBL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ex_11_2_TPT_EntekhabReshteDA\Ex_11_2_TPT_EntekhabReshteDA.csproj">
+      <Project>{e50720fe-bcbf-413a-97ce-b2a9304ecade}</Project>
+      <Name>Ex_11_2_TPT_EntekhabReshteDA</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Ex_11_EntekhabReshteBL\Ex_11_EntekhabReshteBL.csproj">
       <Project>{DA275F57-718A-49B8-8808-3C4DDB5C2B78}</Project>
       <Name>Ex_11_EntekhabReshteBL</Name>
@@ -264,6 +272,14 @@
     <ProjectReference Include="..\Ex_11_EntekhabReshteDA\Ex_11_EntekhabReshteDA.csproj">
       <Project>{AB7CCB2F-EF00-4BDD-9CDA-E1BE9AE3BA87}</Project>
       <Name>Ex_11_EntekhabReshteDA</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ex_12_1_TPH_EntekhabReshteBL\Ex_12_1_TPH_EntekhabReshteBL.csproj">
+      <Project>{3300d0b0-d25b-4583-acca-66f521d586f3}</Project>
+      <Name>Ex_12_1_TPH_EntekhabReshteBL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ex_12_EntekhabReshteDA\Ex_12_1_TPH_EntekhabReshteDA.csproj">
+      <Project>{799fd224-e409-4684-9bad-fb4a03586047}</Project>
+      <Name>Ex_12_1_TPH_EntekhabReshteDA</Name>
     </ProjectReference>
     <ProjectReference Include="..\RecursiveFunction\RecursiveFunction.csproj">
       <Project>{FB38B439-7DBD-4CDC-9FA8-6BB322771457}</Project>

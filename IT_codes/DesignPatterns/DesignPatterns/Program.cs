@@ -45,6 +45,8 @@ circle.Draw(); // Drawing a circle of radius 5
 circle.Resize(2);
 circle.Draw(); // Drawing a circle of radius 10
 Console.WriteLine('\n');
+//add shape ....
+
 
 
 //Command

@@ -40,4 +40,9 @@ namespace _4_Strategy
 
         public override string ToString() => sb.ToString();
     }
+    public enum OutputFormat
+    {
+        Markdown,
+        Html
+    }
 }

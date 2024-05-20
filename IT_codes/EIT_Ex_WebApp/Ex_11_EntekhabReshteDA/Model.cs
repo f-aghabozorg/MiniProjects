@@ -36,54 +36,60 @@ namespace Ex_11_EntekhabReshteDA
 
             public virtual DbSet<User> User { get; set; }
 
+
+            protected override void OnModelCreating(DbModelBuilder modelBuilder)
+            {
+
+
+                modelBuilder.HasDefaultSchema("EDU");
+                //modelBuilder.Entity<Student>().ToTable("Students");
+
+                modelBuilder.Entity<Course>()
+                .HasMany(e => e.TCourse)
+                .WithRequired(e => e.Course)
+                .WillCascadeOnDelete(true);
+
+                modelBuilder.Entity<Teacher>()
+                .HasMany(e => e.TCourse)
+                .WithRequired(e => e.Teacher)
+                .WillCascadeOnDelete(true);
+
+                modelBuilder.Entity<Student>()
+                 .HasMany(e => e.STCourse)
+                 .WithRequired(e => e.Student)
+                 .WillCascadeOnDelete(false);
+
+                modelBuilder.Entity<TCourse>()
+                .HasMany(e => e.STCourse)
+                .WithRequired(e => e.TCourse)
+                .WillCascadeOnDelete(false);
+
+
+                modelBuilder.Entity<User>()
+                 .HasOptional(p => p.Teacher)
+                 .WithRequired(p => p.User);
+
+                modelBuilder.Entity<User>()
+               .HasOptional(p => p.Student)
+               .WithRequired(p => p.User);
+
+                modelBuilder.Entity<User>()
+                .HasOptional(p => p.Address)
+                .WithRequired(p => p.User);
+
+                //modelBuilder.Entity<Student>().Map(m =>
+                //{
+                //    m.MapInheritedProperties();
+                //    m.ToTable("Student");
+                //});
+
+                //modelBuilder.Entity<Teacher>().Map(m =>
+                //{
+                //    m.MapInheritedProperties();
+                //    m.ToTable("Teacher");
+                //});
+            }
+
         }
-
-
-        //protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        //{
-
-
-        //    modelBuilder.HasDefaultSchema("EDU");
-        //    //modelBuilder.Entity<Student>().ToTable("Students");
-
-        //    modelBuilder.Entity<Course>()
-        //    .HasMany(e => e.TCourse)
-        //    .WithRequired(e => e.Course)
-        //    .WillCascadeOnDelete(false);
-
-        //    modelBuilder.Entity<Teacher>()
-        //    .HasMany(e => e.TCourse)
-        //    .WithRequired(e => e.Teacher)
-        //    .WillCascadeOnDelete(false);
-
-        //    modelBuilder.Entity<Student>()
-        //     .HasMany(e => e.STCourse)
-        //     .WithRequired(e => e.Student)
-        //     .WillCascadeOnDelete(false);
-
-        //    modelBuilder.Entity<User>()
-        //     .HasOptional(p => p.Teacher)
-        //     .WithRequired(p => p.User);
-
-        //    modelBuilder.Entity<User>()
-        //   .HasOptional(p => p.Student)
-        //   .WithRequired(p => p.User);
-
-        //    modelBuilder.Entity<User>()
-        //    .HasOptional(p => p.Address)
-        //    .WithRequired(p => p.User);
-
-        //    modelBuilder.Entity<Student>().Map(m =>
-        //    {
-        //        m.MapInheritedProperties();
-        //        m.ToTable("Student");
-        //    });
-
-        //    modelBuilder.Entity<Teacher>().Map(m =>
-        //    {
-        //        m.MapInheritedProperties();
-        //        m.ToTable("Teacher");
-        //    });
-        //}
     }
 }
