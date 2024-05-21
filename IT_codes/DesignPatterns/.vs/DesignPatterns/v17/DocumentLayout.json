@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|solutionrelative:bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\bridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|solutionrelative:bridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|Bridge\\2-Bridge.csproj|solutionrelative:bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,63 +17,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VectorRenderer.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\VectorRenderer.cs",
-              "RelativeDocumentMoniker": "Bridge\\VectorRenderer.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\VectorRenderer.cs",
-              "RelativeToolTip": "Bridge\\VectorRenderer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:55:11.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRenderer.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\IRenderer.cs",
-              "RelativeDocumentMoniker": "Bridge\\IRenderer.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\IRenderer.cs",
-              "RelativeToolTip": "Bridge\\IRenderer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:55:03.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\Circle.cs",
-              "RelativeDocumentMoniker": "Bridge\\Circle.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\Circle.cs",
-              "RelativeToolTip": "Bridge\\Circle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:52:01.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
-              "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T06:51:56.969Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1880CB89-94BB-4677-9257-60111F3D9F96}|Ex_13_SampleSolidPresentation\\Ex_13_SampleSolidPresentation.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_13_samplesolidpresentation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1880CB89-94BB-4677-9257-60111F3D9F96}|Ex_13_SampleSolidPresentation\\Ex_13_SampleSolidPresentation.csproj|solutionrelative:ex_13_samplesolidpresentation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F92E32FE-F700-4B35-9C88-EAB29B718E46}|EIT_SampleIOCPresentation\\EIT_SampleIOCPresentation.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\eit_sampleiocpresentation\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92E32FE-F700-4B35-9C88-EAB29B718E46}|EIT_SampleIOCPresentation\\EIT_SampleIOCPresentation.csproj|solutionrelative:eit_sampleiocpresentation\\webform2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1880CB89-94BB-4677-9257-60111F3D9F96}|Ex_13_SampleSolidPresentation\\Ex_13_SampleSolidPresentation.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\ex_13_samplesolidpresentation\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1880CB89-94BB-4677-9257-60111F3D9F96}|Ex_13_SampleSolidPresentation\\Ex_13_SampleSolidPresentation.csproj|solutionrelative:ex_13_samplesolidpresentation\\unitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F92E32FE-F700-4B35-9C88-EAB29B718E46}|EIT_SampleIOCPresentation\\EIT_SampleIOCPresentation.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\eit_sampleiocpresentation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92E32FE-F700-4B35-9C88-EAB29B718E46}|EIT_SampleIOCPresentation\\EIT_SampleIOCPresentation.csproj|solutionrelative:eit_sampleiocpresentation\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0193A54D-D91C-4CB7-9647-7E125A483228}|Ex_12_2_SampleSolidBL\\Ex_12_2_SampleSolidBL.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\ex_12_2_samplesolidbl\\ipackaging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0193A54D-D91C-4CB7-9647-7E125A483228}|Ex_12_2_SampleSolidBL\\Ex_12_2_SampleSolidBL.csproj|solutionrelative:ex_12_2_samplesolidbl\\ipackaging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_13_ioctextbl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|solutionrelative:ex_13_ioctextbl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0193A54D-D91C-4CB7-9647-7E125A483228}|Ex_12_2_SampleSolidBL\\Ex_12_2_SampleSolidBL.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\ex_12_2_samplesolidbl\\packagebandi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0193A54D-D91C-4CB7-9647-7E125A483228}|Ex_12_2_SampleSolidBL\\Ex_12_2_SampleSolidBL.csproj|solutionrelative:ex_12_2_samplesolidbl\\packagebandi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83FD8071-80F0-4B0D-8C22-C8E487E04FA4}|Ex_13_IOCTextDA\\Ex_13_IOCTextDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_13_ioctextda\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83FD8071-80F0-4B0D-8C22-C8E487E04FA4}|Ex_13_IOCTextDA\\Ex_13_IOCTextDA.csproj|solutionrelative:ex_13_ioctextda\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74DCAD7-47B7-409F-B920-BCD2DE2FADA5}|Ex_12_2_SampleSolidDA\\Ex_12_2_SampleSolidDA.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\ex_12_2_samplesolidda\\biskooiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74DCAD7-47B7-409F-B920-BCD2DE2FADA5}|Ex_12_2_SampleSolidDA\\Ex_12_2_SampleSolidDA.csproj|solutionrelative:ex_12_2_samplesolidda\\biskooiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F92E32FE-F700-4B35-9C88-EAB29B718E46}|EIT_SampleIOCPresentation\\EIT_SampleIOCPresentation.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\eit_sampleiocpresentation\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F92E32FE-F700-4B35-9C88-EAB29B718E46}|EIT_SampleIOCPresentation\\EIT_SampleIOCPresentation.csproj|solutionrelative:eit_sampleiocpresentation\\webform2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74DCAD7-47B7-409F-B920-BCD2DE2FADA5}|Ex_12_2_SampleSolidDA\\Ex_12_2_SampleSolidDA.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\ex_12_2_samplesolidda\\cartooni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74DCAD7-47B7-409F-B920-BCD2DE2FADA5}|Ex_12_2_SampleSolidDA\\Ex_12_2_SampleSolidDA.csproj|solutionrelative:ex_12_2_samplesolidda\\cartooni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_13_ioctextbl\\searchbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|solutionrelative:ex_13_ioctextbl\\searchbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A74DCAD7-47B7-409F-B920-BCD2DE2FADA5}|Ex_12_2_SampleSolidDA\\Ex_12_2_SampleSolidDA.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\ex_12_2_samplesolidda\\conservi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74DCAD7-47B7-409F-B920-BCD2DE2FADA5}|Ex_12_2_SampleSolidDA\\Ex_12_2_SampleSolidDA.csproj|solutionrelative:ex_12_2_samplesolidda\\conservi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_13_ioctextbl\\interface\\ibasebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|solutionrelative:ex_13_ioctextbl\\interface\\ibasebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_13_ioctextbl\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|solutionrelative:ex_13_ioctextbl\\bookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_13_ioctextbl\\interface\\ibookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C39799F-6177-4A90-8387-F53E3676F776}|Ex_13_IOCTextBL\\Ex_13_IOCTextBL.csproj|solutionrelative:ex_13_ioctextbl\\interface\\ibookbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,87 +58,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Conservi.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidDA\\Conservi.cs",
-              "RelativeDocumentMoniker": "Ex_12_2_SampleSolidDA\\Conservi.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidDA\\Conservi.cs",
-              "RelativeToolTip": "Ex_12_2_SampleSolidDA\\Conservi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:27:56.88Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Cartooni.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidDA\\Cartooni.cs",
-              "RelativeDocumentMoniker": "Ex_12_2_SampleSolidDA\\Cartooni.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidDA\\Cartooni.cs",
-              "RelativeToolTip": "Ex_12_2_SampleSolidDA\\Cartooni.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "Title": "SearchBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\SearchBL.cs",
+              "RelativeDocumentMoniker": "Ex_13_IOCTextBL\\SearchBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\SearchBL.cs",
+              "RelativeToolTip": "Ex_13_IOCTextBL\\SearchBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:27:39.317Z"
+              "WhenOpened": "2024-05-21T15:37:55.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Biskooiti.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidDA\\Biskooiti.cs",
-              "RelativeDocumentMoniker": "Ex_12_2_SampleSolidDA\\Biskooiti.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidDA\\Biskooiti.cs",
-              "RelativeToolTip": "Ex_12_2_SampleSolidDA\\Biskooiti.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "DocumentIndex": 7,
+              "Title": "BookBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\BookBL.cs",
+              "RelativeDocumentMoniker": "Ex_13_IOCTextBL\\BookBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\BookBL.cs",
+              "RelativeToolTip": "Ex_13_IOCTextBL\\BookBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:27:25.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PackageBandi.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidBL\\PackageBandi.cs",
-              "RelativeDocumentMoniker": "Ex_12_2_SampleSolidBL\\PackageBandi.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidBL\\PackageBandi.cs",
-              "RelativeToolTip": "Ex_12_2_SampleSolidBL\\PackageBandi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:26:39.813Z"
+              "WhenOpened": "2024-05-21T15:17:52.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IPackaging.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidBL\\IPackaging.cs",
-              "RelativeDocumentMoniker": "Ex_12_2_SampleSolidBL\\IPackaging.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_12_2_SampleSolidBL\\IPackaging.cs",
-              "RelativeToolTip": "Ex_12_2_SampleSolidBL\\IPackaging.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Title": "BaseBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\BaseBL.cs",
+              "RelativeDocumentMoniker": "Ex_13_IOCTextBL\\BaseBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\BaseBL.cs",
+              "RelativeToolTip": "Ex_13_IOCTextBL\\BaseBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:26:14.436Z"
+              "WhenOpened": "2024-05-21T15:13:32.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnityManager.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_SampleSolidPresentation\\UnityManager.cs",
-              "RelativeDocumentMoniker": "Ex_13_SampleSolidPresentation\\UnityManager.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_SampleSolidPresentation\\UnityManager.cs",
-              "RelativeToolTip": "Ex_13_SampleSolidPresentation\\UnityManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAbAAAA",
+              "DocumentIndex": 6,
+              "Title": "IBaseBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\Interface\\IBaseBL.cs",
+              "RelativeDocumentMoniker": "Ex_13_IOCTextBL\\Interface\\IBaseBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\Interface\\IBaseBL.cs",
+              "RelativeToolTip": "Ex_13_IOCTextBL\\Interface\\IBaseBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:15:12.968Z"
+              "WhenOpened": "2024-05-21T15:13:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\Interface\\IBookBL.cs",
+              "RelativeDocumentMoniker": "Ex_13_IOCTextBL\\Interface\\IBookBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextBL\\Interface\\IBookBL.cs",
+              "RelativeToolTip": "Ex_13_IOCTextBL\\Interface\\IBookBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:13:15.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextDA\\News.cs",
+              "RelativeDocumentMoniker": "Ex_13_IOCTextDA\\News.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_IOCTextDA\\News.cs",
+              "RelativeToolTip": "Ex_13_IOCTextDA\\News.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:47:05.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_SampleSolidPresentation\\Global.asax.cs",
-              "RelativeDocumentMoniker": "Ex_13_SampleSolidPresentation\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_13_SampleSolidPresentation\\Global.asax.cs",
-              "RelativeToolTip": "Ex_13_SampleSolidPresentation\\Global.asax.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Title": "WebForm2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_SampleIOCPresentation\\WebForm2.aspx.cs",
+              "RelativeDocumentMoniker": "EIT_SampleIOCPresentation\\WebForm2.aspx.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_SampleIOCPresentation\\WebForm2.aspx.cs",
+              "RelativeToolTip": "EIT_SampleIOCPresentation\\WebForm2.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:11:56.664Z",
+              "WhenOpened": "2024-05-21T15:06:23.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_SampleIOCPresentation\\Global.asax.cs",
+              "RelativeDocumentMoniker": "EIT_SampleIOCPresentation\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_SampleIOCPresentation\\Global.asax.cs",
+              "RelativeToolTip": "EIT_SampleIOCPresentation\\Global.asax.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:06:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm2.aspx",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_SampleIOCPresentation\\WebForm2.aspx",
+              "RelativeDocumentMoniker": "EIT_SampleIOCPresentation\\WebForm2.aspx",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_SampleIOCPresentation\\WebForm2.aspx",
+              "RelativeToolTip": "EIT_SampleIOCPresentation\\WebForm2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T15:06:11.604Z",
               "EditorCaption": ""
             }
           ]

@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Ex_13_SampleSolidPresentation.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="EIT_SampleSolidPresentation.Global" Language="C#" %>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using Unity;
 
-namespace Ex_13_SampleSolidPresentation
+namespace EIT_SampleSolidPresentation
 {
     public class UnityManager
     {

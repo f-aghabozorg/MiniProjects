@@ -1,0 +1,13 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\Ex_13_IOCTextCommon.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\Ex_13_IOCTextCommon.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\Unity.Abstractions.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\Unity.Container.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\Unity.Abstractions.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\bin\Debug\Unity.Container.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\obj\Debug\Ex_13_IOCTextCommon.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\obj\Debug\Ex_13_IOCTextCommon.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\obj\Debug\Ex_13_IO.547313E1.Up2Date
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\obj\Debug\Ex_13_IOCTextCommon.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_13_IOCTextCommon\obj\Debug\Ex_13_IOCTextCommon.pdb

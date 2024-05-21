@@ -46,3 +46,21 @@ E:\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_ContactProjectBL.csproj.Co
 E:\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_Con.A9B6D36E.Up2Date
 E:\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_ContactProjectBL.dll
 E:\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_ContactProjectBL.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_8_ContactProjectBL.dll.config
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_8_ContactProjectBL.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_8_ContactProjectBL.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\EntityFramework.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_8_ContactProjectDA.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.dll.config
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_8_ContactProjectDA.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\Ex_8_ContactProjectDA.dll.config
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\EntityFramework.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_ContactProjectBL.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_ContactProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_Con.A9B6D36E.Up2Date
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_ContactProjectBL.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_8_ContactProjectBL\obj\Debug\Ex_8_ContactProjectBL.pdb

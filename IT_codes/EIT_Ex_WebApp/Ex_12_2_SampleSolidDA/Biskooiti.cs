@@ -13,7 +13,7 @@ namespace Ex_12_2_SampleSolidDA
         {
 
         }
-        public void Packaging(IPackaging type)
+        public void Packaging()
         {
 
         }

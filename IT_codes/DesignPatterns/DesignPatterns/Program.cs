@@ -1,7 +1,8 @@
 ﻿using _3_Command;
 using _4_Strategy;
-using Bridge;
 using Mediator;
+using renderers;
+using shapes;
 using System;
 using System.Linq;
 
@@ -40,12 +41,38 @@ Console.WriteLine('\n');
  * [picture]
  */
 VectorRenderer vector = new VectorRenderer();
-Circle circle = new Circle(vector, 5);
-circle.Draw(); // Drawing a circle of radius 5
-circle.Resize(2);
-circle.Draw(); // Drawing a circle of radius 10
-Console.WriteLine('\n');
+Circle vector_circle = new Circle(vector, 5);
+vector_circle.Draw(); // Drawing a circle of radius 5
+vector_circle.Resize(2);
+vector_circle.Draw(); // Drawing a circle of radius 10
 //add shape ....
+
+Triangle vector_triangle = new Triangle(vector, 5);
+vector_triangle.Draw();
+vector_triangle.Resize(2);
+vector_triangle.Draw(); 
+
+DotRenderer dot = new DotRenderer(); //نکته: هر رندرر باید توانایی ایجاد همه اشکال را داشته باشد
+
+                                     //solid principle check:
+                                     //SPR: single responsibilty: هر رندرر یک کار انجام میدهد و آن ترسیم شکل است
+                                     //OCP: open-closed: برای اکسپند کردن باز است و برای مودیفای کردن بسته است
+                                     //LSP: Liskov sustitution: کلاسهایی که از آنها ارث بری میشود مورد اضافه ای ندارند
+                                     //ISP: Interface segretion: ایترفیس ها متد اضافه ای ندارند
+                                     //DIP: Dependancy inversion: لایه های سطح بالا نباید به لایه های سطخ پایین وابسته باشند
+
+Circle dot_circle = new Circle(dot, 5);
+dot_circle.Draw(); 
+dot_circle.Resize(2);
+dot_circle.Draw(); 
+
+Triangle dot_triangle = new Triangle(dot, 5);
+dot_triangle.Draw(); 
+dot_triangle.Resize(2);
+dot_triangle.Draw(); 
+
+
+Console.WriteLine('\n');
 
 
 

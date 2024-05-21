@@ -8,7 +8,13 @@ namespace Ex_12_2_SampleSolidBL
 {
     public class PackageBandi
     {
-        public void Packaging(IPackaging type)
+        public IPackaging type { get; set; }
+        public PackageBandi(IPackaging type)
+        {
+            this.type = type;
+           
+        }
+        public void Packaging() 
         {
             type.Packaging();
             type.PackageCost();

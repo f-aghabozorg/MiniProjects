@@ -1,0 +1,9 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\bin\Debug\Ex_12_2_SampleSolidDA.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\bin\Debug\Ex_12_2_SampleSolidDA.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\bin\Debug\Ex_12_2_SampleSolidBL.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\bin\Debug\Ex_12_2_SampleSolidBL.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\obj\Debug\Ex_12_2_SampleSolidDA.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\obj\Debug\Ex_12_2_SampleSolidDA.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\obj\Debug\Ex_12_2_.DE0F0266.Up2Date
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\obj\Debug\Ex_12_2_SampleSolidDA.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidDA\obj\Debug\Ex_12_2_SampleSolidDA.pdb

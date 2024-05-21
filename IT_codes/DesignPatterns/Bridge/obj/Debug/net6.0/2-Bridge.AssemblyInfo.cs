@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-Bridge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba1af5262000c2be801a181552d64f3cb6668e5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+398eda90a2c2bf49e9846381f32065755ce6beb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-Bridge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-Bridge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

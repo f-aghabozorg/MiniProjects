@@ -8,36 +8,17 @@ using Ex_12_2_SampleSolidBL;
 using Ex_12_2_SampleSolidDA;
 using Unity;
 
-namespace Ex_13_SampleSolidPresentation
+namespace EIT_SampleSolidPresentation
 {
     public class Global : System.Web.HttpApplication
     {
 
         protected void Application_Start(object sender, EventArgs e)
         {
-            //Exercise 12
-            Cartooni cartoony = new Cartooni();
-            Conservi conservy = new Conservi();
-            Biskooiti biskooity = new Biskooiti();
-
-            PackageBandi packageBandi = new PackageBandi();
-            packageBandi.Packaging(cartoony);
-
-            packageBandi = new PackageBandi();
-            packageBandi.Packaging(cartoony);
-
-            packageBandi = new PackageBandi();
-            packageBandi.Packaging(cartoony);
-
-            //Exercise 13
             UnityManager unityManager = new UnityManager();
-            IPackaging cartooni1 = unityManager.Container.Resolve<IPackaging>("Cartooni");
-            IPackaging biskooity1 = unityManager.Container.Resolve<IPackaging>("Biskooiti");
-            IPackaging conservy1 = unityManager.Container.Resolve<IPackaging>("Conservi");
-
-            IPackaging cartoni = unityManager.Container.IsRegistered<IPackaging>("Cartooni")?
-                unityManager.Container.Resolve<IPackaging>("Cartooni"): null;
-
+            unityManager.Container.RegisterType<IPackaging, Cartooni>("Cartooni"); //unityManager.Container.RegisterType<IPackaging, Cartooni>("Taghy");
+            unityManager.Container.RegisterType<IPackaging, Biskooiti>("Biskooiti");
+            unityManager.Container.RegisterType<IPackaging, Conservi>("Conservi");
         }
 
         protected void Session_Start(object sender, EventArgs e)
