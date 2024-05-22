@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIT_Contact", "EIT_Ex_WebApp\EIT_Contact.csproj", "{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIT_Contact", "EIT_Contact\EIT_Contact.csproj", "{F7CB0B39-55C9-4853-AEA9-3899AE2B786A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_7_ContactProjectBL", "Ex_7_ContactProjectBL\Ex_7_ContactProjectBL.csproj", "{B49A748D-4EC3-4E11-AAC8-1F5981ED0A74}"
 EndProject
@@ -13,9 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_8_ContactProjectBL", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_8_ContactProjectDA", "Ex_8_ContactProjectDA\Ex_8_ContactProjectDA.csproj", "{5CED3D4B-C6E6-49F7-9E67-9846339FEF66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFunction", "RecursiveFunction\RecursiveFunction.csproj", "{FB38B439-7DBD-4CDC-9FA8-6BB322771457}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIT_RecursiveFunction", "EIT_RecursiveFunction\EIT_RecursiveFunction.csproj", "{FB38B439-7DBD-4CDC-9FA8-6BB322771457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIT_EntekhabReshte", "EntekhabReshte\EIT_EntekhabReshte.csproj", "{2FF7F6B2-731D-4C00-B6A5-7C9381584940}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIT_EntekhabReshte", "EIT_EntekhabReshte\EIT_EntekhabReshte.csproj", "{2FF7F6B2-731D-4C00-B6A5-7C9381584940}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_11_EntekhabReshteBL", "Ex_11_EntekhabReshteBL\Ex_11_EntekhabReshteBL.csproj", "{DA275F57-718A-49B8-8808-3C4DDB5C2B78}"
 EndProject
@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_12_1_TPH_EntekhabReshteB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_12_1_TPH_EntekhabReshteDA", "Ex_12_EntekhabReshteDA\Ex_12_1_TPH_EntekhabReshteDA.csproj", "{799FD224-E409-4684-9BAD-FB4A03586047}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIT_SampleSolidPresentation", "Ex_13_SampleSolidPresentation\EIT_SampleSolidPresentation.csproj", "{1880CB89-94BB-4677-9257-60111F3D9F96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIT_SampleSolidPresentation", "EIT_SampleSolidPresentation\EIT_SampleSolidPresentation.csproj", "{1880CB89-94BB-4677-9257-60111F3D9F96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_12_2_SampleSolidBL", "Ex_12_2_SampleSolidBL\Ex_12_2_SampleSolidBL.csproj", "{0193A54D-D91C-4CB7-9647-7E125A483228}"
 EndProject

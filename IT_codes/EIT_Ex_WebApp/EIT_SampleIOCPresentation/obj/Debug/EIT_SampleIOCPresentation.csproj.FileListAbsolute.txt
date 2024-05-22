@@ -1,5 +1,3 @@
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\obj\Debug\EIT_SampleIOCPresentation.csproj.AssemblyReference.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\obj\Debug\EIT_SampleIOCPresentation.csproj.CoreCompileInputs.cache
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\bin\EIT_SampleIOCPresentation.dll.config
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\bin\EIT_SampleIOCPresentation.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\bin\EIT_SampleIOCPresentation.pdb
@@ -70,6 +68,8 @@ C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\E
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\bin\Unity.Container.pdb
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\bin\EntityFramework.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\obj\Debug\EIT_SampleIOCPresentation.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\obj\Debug\EIT_SampleIOCPresentation.csproj.CoreCompileInputs.cache
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\obj\Debug\EIT_Samp.BB29F3C6.Up2Date
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\obj\Debug\EIT_SampleIOCPresentation.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\EIT_SampleIOCPresentation\obj\Debug\EIT_SampleIOCPresentation.pdb
