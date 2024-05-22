@@ -9,5 +9,6 @@ namespace Ex_13_IOCTextBL
 {
     public interface INewsBL: IBaseBL<News>
     {
+
     }
 }

@@ -22,10 +22,10 @@ namespace Ex_13_IOCTextBL
             foreach (string word in searchWord)
             {
                 if (string.IsNullOrEmpty(where))
-                    where += "or";
-                where += $"{nameof(Book.Name)} like N'%''+@p1+''%'" +
-                         $" or {nameof(Book.Summary)} like N'%''+@p2+''%'\"" +
-                         $" or {nameof(Book.Creator)} like N'%''+@p3+''%'\"";
+                    where += " where ";
+                where += $"{nameof(Book.Name)} like N'%'+@p1+'%'" +
+                         $" or {nameof(Book.Summary)} like N'%'+@p2+'%'" +
+                         $" or {nameof(Book.Creator)} like N'%'+@p3+'%'";
             }
 
             return query + where;

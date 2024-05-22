@@ -21,7 +21,7 @@ namespace Ex_13_IOCTextDA
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.HasDefaultSchema("TXT");
+            //modelBuilder.HasDefaultSchema("TXT");
 
         }
     }

@@ -8,6 +8,6 @@ namespace Ex_13_IOCTextBL
 {
     public interface ISearchBL
     {
-        List<SearchAoutoCompleteObject> GetSearchResult(string text);
+        List<SearchAutoCompleteObject> GetSearchResult(string text);
     }
 }

@@ -13,8 +13,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EntekhabReshte</RootNamespace>
-    <AssemblyName>EntekhabReshte</AssemblyName>
+    <RootNamespace>EIT_EntekhabReshte</RootNamespace>
+    <AssemblyName>EIT_EntekhabReshte</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -281,9 +281,9 @@
       <Project>{799fd224-e409-4684-9bad-fb4a03586047}</Project>
       <Name>Ex_12_1_TPH_EntekhabReshteDA</Name>
     </ProjectReference>
-    <ProjectReference Include="..\RecursiveFunction\RecursiveFunction.csproj">
+    <ProjectReference Include="..\Ex_RecursiveFunction\Ex_RecursiveFunction.csproj">
       <Project>{FB38B439-7DBD-4CDC-9FA8-6BB322771457}</Project>
-      <Name>RecursiveFunction</Name>
+      <Name>Ex_RecursiveFunction</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

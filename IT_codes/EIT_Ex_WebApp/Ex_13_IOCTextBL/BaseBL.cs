@@ -31,7 +31,7 @@ namespace Ex_13_IOCTextBL
             }
             set { myDB = value; }
         }
-        private string connectionString = "";
+        private string connectionString = System.Web.Configuration.WebConfigurationManager.ConnectionStrings["TextIOCConnectionString"].ConnectionString;
 
         public virtual string ConnectionString
         {

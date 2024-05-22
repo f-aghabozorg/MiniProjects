@@ -15,11 +15,6 @@ namespace Ex_13_IOCTextBL
             GC.SuppressFinalize(this);
         }
 
-        //public override int GetCount()
-        //{
-        //    return 0;
-        //}
-
         public string GetSearchQuery(string[] searchWord)
         {
             string query = $"select {nameof(News.Title)} as 'col1'" +
@@ -32,10 +27,10 @@ namespace Ex_13_IOCTextBL
             foreach (string word in searchWord)
             {
                 if (string.IsNullOrEmpty(where))
-                    where += "or";
-                where += $"{nameof(News.Title)} like N'%''+@p1+''%'" +
-                         $" or {nameof(News.HeadLine)} like N'%''+@p2+''%'\"" +
-                         $" or {nameof(News.Reporter)} like N'%''+@p3+''%'\"";
+                    where += " where ";
+                where += $"{nameof(News.Title)} like N'%'+@p1+'%'" +
+                         $" or {nameof(News.HeadLine)} like N'%'+@p2+'%'" +
+                         $" or {nameof(News.Reporter)} like N'%'+@p3+'%'";
             }
 
             return query + where;

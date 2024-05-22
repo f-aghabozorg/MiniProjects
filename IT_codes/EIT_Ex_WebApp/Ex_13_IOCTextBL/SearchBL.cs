@@ -11,7 +11,7 @@ using Unity;
 
 namespace Ex_13_IOCTextBL
 {
-    public class SearchBL: ISearchBL
+    public class SearchBL : ISearchBL
     {
 
         private UnityManager _unityManager;
@@ -27,44 +27,53 @@ namespace Ex_13_IOCTextBL
             }
             set { _unityManager = value; }
         }
-        public List<SearchAoutoCompleteObject> GetSearchResult(string text)
+        public List<SearchAutoCompleteObject> GetSearchResult(string text)
         {
-            List<SearchAoutoCompleteObject> resultList = new List<SearchAoutoCompleteObject>();
+            List<SearchAutoCompleteObject> resultList = new List<SearchAutoCompleteObject>();
             string[] searchWords = text.Split(' ');
             string query = "";
+
             foreach (ISearchable obj in _UnityManager.Container.ResolveAll<ISearchable>())
             {
-                query = obj.GetSearchQuery(searchWords);
+                query += obj.GetSearchQuery(searchWords);
                 if (query != "")
                     query += " union ";
-            }       
+            }
+
             DataTable dt = new DataTable();
-            using (SqlConnection connection = new SqlConnection(""))
+            using (SqlConnection connection = new SqlConnection(System.Web.Configuration.WebConfigurationManager.ConnectionStrings["TextIOCConnectionString"].ConnectionString))
             {
                 try
                 {
+                    query = query.Substring(0, query.Length - 7);
                     SqlCommand command = new SqlCommand(query, connection);
-                    for(int i = 0;i< searchWords.Length;i++)
-                        command.Parameters.AddWithValue("@p" + i, searchWords[i]);
+                    command.Prepare();
+
+                    foreach (string word in searchWords)
+                        for (int i = 1; i <= 4; i++)
+                            command.Parameters.AddWithValue("@p" + i.ToString(), word);
+
                     SqlDataAdapter da = new SqlDataAdapter();
                     connection.Open();
+                    da.SelectCommand = command;
                     da.Fill(dt);
+                    command.ExecuteNonQuery();
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     return null;
                 }
-                finally 
+                finally
                 {
                     connection.Close();
                 }
-                
+
             }
-            if(dt!=null)
+            if (dt != null)
             {
                 foreach (DataRow dr in dt.Rows)
                 {
-                    SearchAoutoCompleteObject searchObject = new SearchAoutoCompleteObject();
+                    SearchAutoCompleteObject searchObject = new SearchAutoCompleteObject();
                     searchObject.Col1 = dr["Col1"].ToString();
                     searchObject.Col2 = dr["Col2"].ToString();
                     searchObject.Col3 = dr["Col3"].ToString();
@@ -76,7 +85,7 @@ namespace Ex_13_IOCTextBL
         }
 
     }
-    public class SearchAoutoCompleteObject
+    public class SearchAutoCompleteObject
     {
         public string Col1 { get; set; }
         public string Col2 { get; set; }
