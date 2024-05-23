@@ -88,8 +88,6 @@
     <Content Include="WebForm2.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Insert.cs" />
-    <Compile Include="DTO.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -121,7 +119,7 @@
       <Name>Ex_13_IOCTextCommon</Name>
     </ProjectReference>
     <ProjectReference Include="..\Ex_13_IOCTextDA\Ex_13_IOCTextDA.csproj">
-      <Project>{83FD8071-80F0-4B0D-8C22-C8E487E04FA4}</Project>
+      <Project>{83fd8071-80f0-4b0d-8c22-c8e487e04fa4}</Project>
       <Name>Ex_13_IOCTextDA</Name>
     </ProjectReference>
   </ItemGroup>

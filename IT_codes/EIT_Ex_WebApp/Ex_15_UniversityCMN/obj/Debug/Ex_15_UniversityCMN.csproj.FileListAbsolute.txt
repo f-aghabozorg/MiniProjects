@@ -1,0 +1,13 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Ex_15_UniversityCMN.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Ex_15_UniversityCMN.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Abstractions.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Container.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Abstractions.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Container.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\obj\Debug\Ex_15_UniversityCMN.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\obj\Debug\Ex_15_UniversityCMN.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\obj\Debug\Ex_15_Un.4D21F3D0.Up2Date
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\obj\Debug\Ex_15_UniversityCMN.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\obj\Debug\Ex_15_UniversityCMN.pdb

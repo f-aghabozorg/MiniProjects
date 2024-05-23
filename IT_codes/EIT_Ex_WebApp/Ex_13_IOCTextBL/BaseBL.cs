@@ -11,7 +11,7 @@ using System.Data.Entity;
 namespace Ex_13_IOCTextBL
 {
     public class BaseBL<T> : IBaseBL<T>
-        where T : class, IEntity 
+        where T : class, IEntity
     {
         public virtual int GetCount()
         {

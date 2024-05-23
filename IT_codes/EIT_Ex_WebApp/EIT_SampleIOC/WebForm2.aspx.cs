@@ -23,7 +23,8 @@ namespace EIT_SampleIOC
             IArticleBL Articles = unityManager.Container.Resolve<IArticleBL>("ArticleBL");
             IForumBL Forums = unityManager.Container.Resolve<IForumBL>("ForumBL");
 
-            News.Insert(new News(){
+            News.Insert(new News()
+            {
                 Id = 1
                 ,
                 HeadLine = "Ex_13_defualt_HeadLine: BitCoin"
@@ -40,7 +41,7 @@ namespace EIT_SampleIOC
             });
 
 
-            Books.Insert(new Book()
+            Books.Insert(new Book()                         //ask how implement both dto - baseBL
             {
                 Id = 1
                           ,

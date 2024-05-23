@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Ex_13_IOCTextDA
 {
     [Table("News")]
-    public class News: IEntity
+    public class News : IEntity
     {
         public int Id { get; set; }
         public string HeadLine { get; set; }

@@ -65,6 +65,11 @@
     <Compile Include="ArticleBL.cs" />
     <Compile Include="BaseBL.cs" />
     <Compile Include="BookBL.cs" />
+    <Compile Include="DTOs\ArticleDTO.cs" />
+    <Compile Include="DTOs\BookDTO.cs" />
+    <Compile Include="DTOs\ForumDTO.cs" />
+    <Compile Include="DTOs\IDTO.cs" />
+    <Compile Include="DTOs\NewsDTO.cs" />
     <Compile Include="ForumBL.cs" />
     <Compile Include="Interface\IArticleBL.cs" />
     <Compile Include="Interface\IBaseBL.cs" />
@@ -82,7 +87,7 @@
       <Name>Ex_13_IOCTextCommon</Name>
     </ProjectReference>
     <ProjectReference Include="..\Ex_13_IOCTextDA\Ex_13_IOCTextDA.csproj">
-      <Project>{83FD8071-80F0-4B0D-8C22-C8E487E04FA4}</Project>
+      <Project>{83fd8071-80f0-4b0d-8c22-c8e487e04fa4}</Project>
       <Name>Ex_13_IOCTextDA</Name>
     </ProjectReference>
   </ItemGroup>
