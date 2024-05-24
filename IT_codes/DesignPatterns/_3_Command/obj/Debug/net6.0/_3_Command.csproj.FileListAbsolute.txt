@@ -1,0 +1,12 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\bin\Debug\net6.0\_3_Command.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\bin\Debug\net6.0\_3_Command.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\bin\Debug\net6.0\_3_Command.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\_3_Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\_3_Command.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\_3_Command.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\_3_Command.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\_3_Command.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\_3_Command.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\refint\_3_Command.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\_3_Command.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_3_Command\obj\Debug\net6.0\ref\_3_Command.dll

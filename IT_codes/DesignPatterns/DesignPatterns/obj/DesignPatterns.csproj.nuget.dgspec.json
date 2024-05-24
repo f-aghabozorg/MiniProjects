@@ -4,186 +4,6 @@
     "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj",
-        "projectName": "3-Command",
-        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj",
-        "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\4-Strategy.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\4-Strategy.csproj",
-        "projectName": "4-Strategy",
-        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\4-Strategy.csproj",
-        "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\2-Bridge.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\2-Bridge.csproj",
-        "projectName": "2-Bridge",
-        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\2-Bridge.csproj",
-        "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -202,23 +22,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj": {
-                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\3-Command\\3-Command.csproj"
+              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\_1_Mediator.csproj": {
+                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\_1_Mediator.csproj"
               },
-              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\4-Strategy.csproj": {
-                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\4-Strategy\\4-Strategy.csproj"
+              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\_2_Bridge.csproj": {
+                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\_2_Bridge.csproj"
               },
-              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\2-Bridge.csproj": {
-                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Bridge\\2-Bridge.csproj"
+              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\_3_Command.csproj": {
+                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\_3_Command.csproj"
               },
-              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\1-Mediator.csproj": {
-                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\1-Mediator.csproj"
+              "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.csproj": {
+                "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.csproj"
               }
             }
           }
@@ -253,18 +74,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\1-Mediator.csproj": {
+    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\_1_Mediator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\1-Mediator.csproj",
-        "projectName": "1-Mediator",
-        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\1-Mediator.csproj",
+        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\_1_Mediator.csproj",
+        "projectName": "_1_Mediator",
+        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\_1_Mediator.csproj",
         "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\Mediator\\obj\\",
+        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -275,6 +96,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -313,7 +135,190 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\_2_Bridge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\_2_Bridge.csproj",
+        "projectName": "_2_Bridge",
+        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\_2_Bridge.csproj",
+        "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\_3_Command.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\_3_Command.csproj",
+        "projectName": "_3_Command",
+        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\_3_Command.csproj",
+        "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.csproj",
+        "projectName": "_4_Strategy",
+        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.csproj",
+        "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

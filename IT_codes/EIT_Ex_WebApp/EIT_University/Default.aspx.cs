@@ -20,25 +20,6 @@ namespace EIT_University
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //Exercise 15-16          using DTOs
-            Ex_15_2_BL.IUserDA UsersDA1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IUserDA>();
-            Ex_15_2_BL.ITeacherDA TeachersDA1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.ITeacherDA>();
-            Ex_15_2_BL.IStudentDA StudentsDA1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IStudentDA>();
-
-            //UsersDA1.Insert(user);
-            //TeachersDA1.Insert(teacher);
-            //StudentsDA1.Insert(student);
-
-            Ex_15_2_BL.IUserBL UsersBL1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IUserBL>();
-            Ex_15_2_BL.ITeacherBL TeachersBL1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.ITeacherBL>();
-            Ex_15_2_BL.IStudentBL StudentsBL1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IStudentBL>();
-
-            //UsersBL1.Insert(user);
-            //TeachersBL1.Insert(teacher);
-            //StudentsBL1.Insert(student);
-            Console.WriteLine(".");
-
-
             //Exercise 15-16
             Console.WriteLine(".");
             Ex_15_DA.User user = new Ex_15_DA.User()
@@ -92,9 +73,25 @@ namespace EIT_University
             TeachersBL.Insert(teacher);
             StudentsBL.Insert(student);
 
-            Console.WriteLine("."); 
+            Console.WriteLine(".");
 
-           
+            //Exercise 15-16 //using DTOs
+            Ex_15_2_BL.IUserDA UsersDA1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IUserDA>();
+            Ex_15_2_BL.ITeacherDA TeachersDA1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.ITeacherDA>();
+            Ex_15_2_BL.IStudentDA StudentsDA1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IStudentDA>();
+
+            //UsersDA1.Insert(userDto);
+            //TeachersDA1.Insert(teacherDto);
+            //StudentsDA1.Insert(studentDto);
+
+            Ex_15_2_BL.IUserBL UsersBL1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IUserBL>();
+            Ex_15_2_BL.ITeacherBL TeachersBL1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.ITeacherBL>();
+            Ex_15_2_BL.IStudentBL StudentsBL1 = Ex_15_2_CMN.UnityManager.Container.Resolve<Ex_15_2_BL.IStudentBL>();
+
+            //UsersBL1.Insert(userDto);
+            //TeachersBL1.Insert(teacherDto);
+            //StudentsBL1.Insert(studentDto);
+            Console.WriteLine(".");
 
         }
     }

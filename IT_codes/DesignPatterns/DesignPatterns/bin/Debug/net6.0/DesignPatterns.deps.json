@@ -8,33 +8,33 @@
     ".NETCoreApp,Version=v6.0": {
       "DesignPatterns/1.0.0": {
         "dependencies": {
-          "1-Mediator": "1.0.0",
-          "2-Bridge": "1.0.0",
-          "3-Command": "1.0.0",
-          "4-Strategy": "1.0.0"
+          "_1_Mediator": "1.0.0",
+          "_2_Bridge": "1.0.0",
+          "_3_Command": "1.0.0",
+          "_4_Strategy": "1.0.0"
         },
         "runtime": {
           "DesignPatterns.dll": {}
         }
       },
-      "1-Mediator/1.0.0": {
+      "_1_Mediator/1.0.0": {
         "runtime": {
-          "1-Mediator.dll": {}
+          "_1_Mediator.dll": {}
         }
       },
-      "2-Bridge/1.0.0": {
+      "_2_Bridge/1.0.0": {
         "runtime": {
-          "2-Bridge.dll": {}
+          "_2_Bridge.dll": {}
         }
       },
-      "3-Command/1.0.0": {
+      "_3_Command/1.0.0": {
         "runtime": {
-          "3-Command.dll": {}
+          "_3_Command.dll": {}
         }
       },
-      "4-Strategy/1.0.0": {
+      "_4_Strategy/1.0.0": {
         "runtime": {
-          "4-Strategy.dll": {}
+          "_4_Strategy.dll": {}
         }
       }
     }
@@ -45,22 +45,22 @@
       "serviceable": false,
       "sha512": ""
     },
-    "1-Mediator/1.0.0": {
+    "_1_Mediator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "2-Bridge/1.0.0": {
+    "_2_Bridge/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "3-Command/1.0.0": {
+    "_3_Command/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "4-Strategy/1.0.0": {
+    "_4_Strategy/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

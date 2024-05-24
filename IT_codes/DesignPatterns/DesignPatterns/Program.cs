@@ -1,6 +1,6 @@
 ﻿using _3_Command;
 using _4_Strategy;
-using Mediator;
+using _1_Mediator;
 using renderers;
 using shapes;
 using System;

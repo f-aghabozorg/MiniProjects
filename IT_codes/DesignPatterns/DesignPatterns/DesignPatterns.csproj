@@ -8,10 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\3-Command\3-Command.csproj" />
-    <ProjectReference Include="..\4-Strategy\4-Strategy.csproj" />
-    <ProjectReference Include="..\Bridge\2-Bridge.csproj" />
-    <ProjectReference Include="..\Mediator\1-Mediator.csproj" />
+    <ProjectReference Include="..\_1_Mediator\_1_Mediator.csproj" />
+    <ProjectReference Include="..\_2_Bridge\_2_Bridge.csproj" />
+    <ProjectReference Include="..\_3_Command\_3_Command.csproj" />
+    <ProjectReference Include="..\_4_Strategy\_4_Strategy.csproj" />
   </ItemGroup>
 
 </Project>
