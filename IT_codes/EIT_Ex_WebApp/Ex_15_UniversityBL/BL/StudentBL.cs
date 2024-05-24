@@ -9,7 +9,7 @@ using Unity;
 
 namespace Ex_15_UniversityBL
 {
-    public class StudentBL : BaseBL<IStudentDA,IStudent>
+    public class StudentBL : BaseBL<IStudentDA,IStudent>,IStudentBL
     {
         
     }

@@ -8,7 +8,7 @@ using Unity;
 
 namespace Ex_15_UniversityBL
 {
-    public class UserBL : BaseBL<IUserDA, IUser>
+    public class UserBL : BaseBL<IUserDA, IUser> ,IUserBL
     {
         public IUser GetItem(int id)
         {

@@ -10,15 +10,3 @@ E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.SqlServer.
 E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_Con.66BDEEFE.Up2Date
 E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.dll
 E:\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\Ex_9_ContactProjectDBFirst.dll.config
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\Ex_9_ContactProjectDBFirst.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\Ex_9_ContactProjectDBFirst.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.xml
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.csproj.AssemblyReference.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.csproj.CoreCompileInputs.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_Con.66BDEEFE.Up2Date
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_9_ContactProjectDBFirst\obj\Debug\Ex_9_ContactProjectDBFirst.pdb

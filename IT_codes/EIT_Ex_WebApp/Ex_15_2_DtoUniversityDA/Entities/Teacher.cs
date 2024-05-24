@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Ex_15_2_DtoUniversityBL;
+
+namespace Ex_15_2_DtoUniversityDA
+{
+    public class Teacher  : User ,ITeacher
+    {
+        public new int Id { get; set; }
+        public byte MadrakType { get; set; }
+        public int TeacherCode { get; set; }
+    }
+}

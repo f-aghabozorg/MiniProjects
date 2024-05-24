@@ -13,13 +13,10 @@ namespace Ex_15_UniversityBL
 
     public interface IBaseDA<T> where T : class,IEntity
     {
-
-
         #region Get
         //IQueryable<T> getAllAsQueryable();
         T GetItem(int id);
         #endregion
-
 
         #region manipulate
         T Insert(T entity);
@@ -27,7 +24,5 @@ namespace Ex_15_UniversityBL
         T Delete(T entity);
         void Save();
         #endregion
-
-
     }
 }

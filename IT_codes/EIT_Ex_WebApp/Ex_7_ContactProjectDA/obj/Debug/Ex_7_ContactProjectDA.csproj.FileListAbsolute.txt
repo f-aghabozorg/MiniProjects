@@ -21,15 +21,3 @@ E:\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_ContactProjectDA.csproj.Co
 E:\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_Con.DFEF2B10.Up2Date
 E:\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_ContactProjectDA.dll
 E:\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_ContactProjectDA.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\bin\Debug\Ex_7_ContactProjectDA.dll.config
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\bin\Debug\Ex_7_ContactProjectDA.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\bin\Debug\Ex_7_ContactProjectDA.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\bin\Debug\EntityFramework.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\bin\Debug\EntityFramework.xml
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_ContactProjectDA.csproj.AssemblyReference.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_ContactProjectDA.csproj.CoreCompileInputs.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_Con.DFEF2B10.Up2Date
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_ContactProjectDA.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectDA\obj\Debug\Ex_7_ContactProjectDA.pdb

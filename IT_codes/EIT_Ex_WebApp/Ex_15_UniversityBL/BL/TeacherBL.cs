@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ex_15_UniversityBL
 {
-    internal class TeacherBL : BaseBL<ITeacherDA, ITeacher>
+    public class TeacherBL : BaseBL<ITeacherDA, ITeacher>,ITeacherBL
     {
     }
 }

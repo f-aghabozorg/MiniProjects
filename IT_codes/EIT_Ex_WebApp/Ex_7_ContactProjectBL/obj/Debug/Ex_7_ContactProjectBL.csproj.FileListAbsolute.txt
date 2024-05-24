@@ -26,18 +26,3 @@ E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.csproj.Co
 E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_Con.C1112B93.Up2Date
 E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.dll
 E:\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.dll.config
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectBL.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\Ex_7_ContactProjectDA.dll.config
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.xml
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.csproj.AssemblyReference.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.csproj.CoreCompileInputs.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_Con.C1112B93.Up2Date
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_7_ContactProjectBL\obj\Debug\Ex_7_ContactProjectBL.pdb

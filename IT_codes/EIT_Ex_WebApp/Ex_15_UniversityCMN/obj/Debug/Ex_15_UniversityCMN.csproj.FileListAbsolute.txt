@@ -1,8 +1,13 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Ex_15_UniversityCMN.dll.config
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Ex_15_UniversityCMN.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Ex_15_UniversityCMN.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\EntityFramework.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Abstractions.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Container.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\EntityFramework.xml
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Abstractions.pdb
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_15_UniversityCMN\bin\Debug\Unity.Container.pdb

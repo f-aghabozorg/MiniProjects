@@ -87,9 +87,9 @@ namespace Ex_15_UniversityDA
             {
                 try
                 {
-                    if (entity.State == EntityState.Added)
+                    //if (entity.State == EntityState.Added)
                         //(entity as IEntity).Id = getAllAsQueryable().Any() ? getAllAsQueryable().Max(p => p.Id) + 1 : 1;
-                        entity.Property("Id").CurrentValue = getAllAsQueryable().Any() ? getAllAsQueryable().Max(p => p.Id) + 1 : 1;
+                        //entity.Property("Id").CurrentValue = getAllAsQueryable().Any() ? getAllAsQueryable().Max(p => p.Id) + 1 : 1;
                 }
                 catch (Exception ex)
                 {

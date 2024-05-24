@@ -1,6 +1,0 @@
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidBL\bin\Debug\Ex_12_2_SampleSolidBL.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidBL\bin\Debug\Ex_12_2_SampleSolidBL.pdb
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidBL\obj\Debug\Ex_12_2_SampleSolidBL.csproj.AssemblyReference.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidBL\obj\Debug\Ex_12_2_SampleSolidBL.csproj.CoreCompileInputs.cache
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidBL\obj\Debug\Ex_12_2_SampleSolidBL.dll
-C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_Ex_WebApp\Ex_12_2_SampleSolidBL\obj\Debug\Ex_12_2_SampleSolidBL.pdb

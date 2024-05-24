@@ -12,7 +12,6 @@ namespace Ex_15_UniversityDA
     public class User : Entity ,IUser
     {
         public int Id { get; set; }
-
         public string FirstName { get; set; }
 
         public string LastName { get; set; }

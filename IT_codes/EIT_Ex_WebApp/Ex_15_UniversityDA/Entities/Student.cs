@@ -10,9 +10,9 @@ using Ex_15_UniversityBL;
 
 namespace Ex_15_UniversityDA
 {
-    public class Student : Entity , IStudent
+    public class Student : User , IStudent
     {
-        public int Id { get; set; }
+        public new int Id { get; set; }
         public int StudentCode { get; set; }
 
     }
