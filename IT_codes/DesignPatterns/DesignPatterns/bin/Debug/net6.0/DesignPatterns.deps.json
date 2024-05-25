@@ -11,7 +11,8 @@
           "_1_Mediator": "1.0.0",
           "_2_Bridge": "1.0.0",
           "_3_Command": "1.0.0",
-          "_4_Strategy": "1.0.0"
+          "_4_Strategy": "1.0.0",
+          "_5_FactoryMethod": "1.0.0"
         },
         "runtime": {
           "DesignPatterns.dll": {}
@@ -35,6 +36,11 @@
       "_4_Strategy/1.0.0": {
         "runtime": {
           "_4_Strategy.dll": {}
+        }
+      },
+      "_5_FactoryMethod/1.0.0": {
+        "runtime": {
+          "_5_FactoryMethod.dll": {}
         }
       }
     }
@@ -61,6 +67,11 @@
       "sha512": ""
     },
     "_4_Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_5_FactoryMethod/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

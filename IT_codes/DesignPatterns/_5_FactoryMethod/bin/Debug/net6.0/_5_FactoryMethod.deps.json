@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_5_FactoryMethod/1.0.0": {
+        "runtime": {
+          "_5_FactoryMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_5_FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

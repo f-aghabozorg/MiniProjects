@@ -41,6 +41,26 @@
         "runtime": {
           "bin/placeholder/_4_Strategy.dll": {}
         }
+      },
+      "_5_AbstractFactory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/_5_AbstractFactory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_5_AbstractFactory.dll": {}
+        }
+      },
+      "_5_FactoryMethod/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/_5_FactoryMethod.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_5_FactoryMethod.dll": {}
+        }
       }
     }
   },
@@ -64,6 +84,16 @@
       "type": "project",
       "path": "../_4_Strategy/_4_Strategy.csproj",
       "msbuildProject": "../_4_Strategy/_4_Strategy.csproj"
+    },
+    "_5_AbstractFactory/1.0.0": {
+      "type": "project",
+      "path": "../_5_AbstractFactory/_5_AbstractFactory.csproj",
+      "msbuildProject": "../_5_AbstractFactory/_5_AbstractFactory.csproj"
+    },
+    "_5_FactoryMethod/1.0.0": {
+      "type": "project",
+      "path": "../_5_FactoryMethod/_5_FactoryMethod.csproj",
+      "msbuildProject": "../_5_FactoryMethod/_5_FactoryMethod.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -71,7 +101,9 @@
       "_1_Mediator >= 1.0.0",
       "_2_Bridge >= 1.0.0",
       "_3_Command >= 1.0.0",
-      "_4_Strategy >= 1.0.0"
+      "_4_Strategy >= 1.0.0",
+      "_5_AbstractFactory >= 1.0.0",
+      "_5_FactoryMethod >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -113,6 +145,12 @@
             },
             "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.csproj": {
               "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.csproj"
+            },
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_5_AbstractFactory\\_5_AbstractFactory.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_5_AbstractFactory\\_5_AbstractFactory.csproj"
+            },
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_5_FactoryMethod\\_5_FactoryMethod.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_5_FactoryMethod\\_5_FactoryMethod.csproj"
             }
           }
         }

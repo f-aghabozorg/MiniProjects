@@ -1,0 +1,43 @@
+﻿//strategy
+/*
+ * Intent:
+ * The Strategy Pattern defines a family of algorithms,
+   encapsulates each one, and makes them interchangeable. Strategy
+   lets the algorithm vary independently from clients that use it.
+ 
+ * Strategy is a behavioral design pattern that lets you define a family of algorithms,
+   put each of them into a separate class, and make their objects interchangeable.
+  
+ * using composition rather than inheritance
+ * In UML -> means Has-A : It't composition
+     and a flash with traiangle means IS-A : it's inheritance
+  
+   Example:
+ * duck - wild duck - city duck
+ * IflyBehavoir :
+ * IQuakBehavior : NoQuak - simpleQuak
+ * IDisplayBehavior
+   ...
+ * so we have a very flexible system, 
+   although inheritance is vary powerful an applies to many senarios but we use strategy pattern
+
+  class duck
+  {
+    IflyBehavoir fb
+    IQuakBehavior qb
+    IDisplayBehavior db
+   public duck(flyBehavoir fb
+              QuakBehavior qb
+              DisplayBehavior db)
+   {this.fb = fb;
+    ...}
+   public void fly(){
+    this.fb.fly();
+   }
+ 
+ * no matter how you do it (inheritance), there's some some senarios that you can't do it heirarchically
+  
+ * استراتژی یک الگوی طراحی رفتاری است که
+  مجموعه‌ای از رفتارها را به اشیا تبدیل می‌کند و آن‌ها را در داخل شی متن اصلی قابل تعویض می‌کند
+
+ */

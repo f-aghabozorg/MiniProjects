@@ -1,0 +1,12 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\bin\Debug\net6.0\_5_FactoryMethod.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\bin\Debug\net6.0\_5_FactoryMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\bin\Debug\net6.0\_5_FactoryMethod.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\_5_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\_5_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\_5_FactoryMethod.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\_5_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\_5_FactoryMethod.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\_5_FactoryMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\refint\_5_FactoryMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\_5_FactoryMethod.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_FactoryMethod\obj\Debug\net6.0\ref\_5_FactoryMethod.dll

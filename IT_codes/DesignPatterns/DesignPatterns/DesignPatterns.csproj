@@ -12,6 +12,8 @@
     <ProjectReference Include="..\_2_Bridge\_2_Bridge.csproj" />
     <ProjectReference Include="..\_3_Command\_3_Command.csproj" />
     <ProjectReference Include="..\_4_Strategy\_4_Strategy.csproj" />
+    <ProjectReference Include="..\_5_AbstractFactory\_5_AbstractFactory.csproj" />
+    <ProjectReference Include="..\_5_FactoryMethod\_5_FactoryMethod.csproj" />
   </ItemGroup>
 
 </Project>

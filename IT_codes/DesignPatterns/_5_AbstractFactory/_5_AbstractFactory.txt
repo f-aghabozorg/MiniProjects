@@ -1,0 +1,18 @@
+﻿//abstract Factory
+
+/*
+ *  Intent:
+    Abstract Factory is a creational design pattern that lets you produce families of related objects 
+    without specifying their concrete classes.    
+   
+ *  Identification: 
+   The pattern is easy to recognize by methods, which return a factory object.
+   Then, the factory is used for creating specific sub-components.
+
+ * Let's encapsulate the instatiation 
+   Why FactoryMehod?
+   1- Because of Business Logic of Parameters you want to pass to a Particular class and work with which class
+   2- Polymorphism: wrap the construction with an instance (factory), so you can swap the instances of Factories
+
+ 
+ */

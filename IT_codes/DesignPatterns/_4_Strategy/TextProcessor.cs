@@ -16,7 +16,7 @@ namespace _4_Strategy
             listStrategy.Start(sb);
             foreach (var item in items)
                 listStrategy.AddListItem(sb, item);
-            listStrategy.End(sb);
+            listStrategy.End(sb);   
         }
 
         public void SetOutputFormat(OutputFormat format)

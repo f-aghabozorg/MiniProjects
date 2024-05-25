@@ -45,3 +45,5 @@ C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.pdb
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\obj\Debug\net6.0\DesignPatterns.genruntimeconfig.cache
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_5_FactoryMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_5_FactoryMethod.pdb

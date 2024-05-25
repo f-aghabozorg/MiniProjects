@@ -1,0 +1,10 @@
+﻿
+کلاس های concrete 
+در برنامه نویسی شئ گرا کلاس هایی هستند که هیچ مفهوم اتزاعی
+ (متد abstract یا عضو virtual)
+ در آنها وجود ندارد و تمام متد های آنها دارای پیاده سازی هستند و در نتیجه می توان از آنها شئ ساخت.
+
+ A concrete class is a class that allows creating an instance or an object using the new keyword.
+ A concrete method is a method that can be called directly.
+
+
