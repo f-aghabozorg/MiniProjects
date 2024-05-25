@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using renderers;
 
-namespace shapes
+namespace _2_Bridge
 {
     public class Triangle : Shape
     {

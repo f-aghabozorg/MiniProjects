@@ -12,5 +12,32 @@
    that store objects in a list and by calls to the update method issued to objects in that list.
 
  
+   Example:
+   we have 2 things which have states which over time they changes their states.
+   2 weather station - measures whether data -
+   subscriber: one the objects need to know whenever the other objects changes its state
+   observable: has some subscribers
+
+   poll vs push 
+   polling for change: all the observer ask: have you change??
+   pushing changes: if the object changes, it tells observers: I have change.
+                    it means the object (observable) knows who the subscribers are
+                    so the subscribers need to register to the observable 
+
+    observer pattern defines a one to many dependency between objects
+    so that when one object changes its state,
+    all of its dependancies are notified and updated automatically
+
+    -> : has a
+    -|>: is a
+    IObservable has many IObservable
+    IObservable: add(Ibserver){} - remove(Ibserver){} - notify(){}
+    IObserver: Update(){}
+    ConcreteObservable
+    ConcreteObserver
+    when you instantiate a concrete obserever, through the constructor you pass a concrete observable
+
+
+    [designers of C# decided to incorporate it directly into the language wholesale with the event keyword]
 
  */

@@ -12,7 +12,10 @@
           "_2_Bridge": "1.0.0",
           "_3_Command": "1.0.0",
           "_4_Strategy": "1.0.0",
-          "_5_FactoryMethod": "1.0.0"
+          "_5_AbstractFactory": "1.0.0",
+          "_5_FactoryMethod": "1.0.0",
+          "_6_Observer": "1.0.0",
+          "_7_TemplateMethod": "1.0.0"
         },
         "runtime": {
           "DesignPatterns.dll": {}
@@ -38,9 +41,24 @@
           "_4_Strategy.dll": {}
         }
       },
+      "_5_AbstractFactory/1.0.0": {
+        "runtime": {
+          "_5_AbstractFactory.dll": {}
+        }
+      },
       "_5_FactoryMethod/1.0.0": {
         "runtime": {
           "_5_FactoryMethod.dll": {}
+        }
+      },
+      "_6_Observer/1.0.0": {
+        "runtime": {
+          "_6_Observer.dll": {}
+        }
+      },
+      "_7_TemplateMethod/1.0.0": {
+        "runtime": {
+          "_7_TemplateMethod.dll": {}
         }
       }
     }
@@ -71,7 +89,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "_5_AbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "_5_FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_6_Observer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_7_TemplateMethod/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

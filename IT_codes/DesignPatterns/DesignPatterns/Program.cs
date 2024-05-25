@@ -1,41 +1,29 @@
-﻿using _1_Mediator;
+﻿using System;
+using _1_Mediator;
+using _2_Bridge;
 using _3_Command;
 using _4_Strategy;
-using _5 = _5_FactoryMethod;
+using _5_FactoryMethod;
 using _5_AbstractFactory;
+using _6_Observer;
 
-using renderers;
-using shapes;
-using System;
-using System.Linq;
-using System.Drawing;
+using _1 = _1_Mediator;
+using _5 = _5_FactoryMethod;
+using _6 = _6_Observer;
+using _7_TemplateMethod;
 
-//https://refactoring.guru/design-patterns/csharp
+
 
 #region Mediator
-//Mediator
-/*
- * Intent:
- * Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects.
- * The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
- * 
- * الگوی میانجی نشان می دهد که باید تمام ارتباط مستقیم بین اجزایی را که می خواهید مستقل از یکدیگر کنید، متوقف کنید. 
- * در عوض، این مؤلفه‌ها باید به‌طور غیرمستقیم، با فراخوانی یک شی واسطه ویژه که تماس‌ها را به مؤلفه‌های مناسب هدایت می‌کند، همکاری کنند.
- * در نتیجه، مؤلفه‌ها به جای جفت شدن با ده‌ها نفر از همکارانشان، تنها به یک کلاس واسطه وابسته هستند
- * [picture]
- * 
- * Usage examples: The most popular usage of the Mediator pattern in C# code is facilitating communications between GUI components of an app.
- * The synonym of the Mediator is the Controller part of MVC pattern.
- */
 Console.WriteLine("1-Mediator");
 ChatRoom room = new ChatRoom();
-Person john = new Person("John");
-Person jane = new Person("Jane");
+_1.Person john = new _1.Person("John");
+_1.Person jane = new _1.Person("Jane");
 room.Join(john);
 room.Join(jane);
 john.Say("hi room");
 jane.Say("oh, hey john");
-Person simon = new Person("Simon");
+_1.Person simon = new _1.Person("Simon");
 room.Join(simon);
 simon.Say("hi everyone!");
 jane.PrivateMessage("Simon", "glad you could join us!");
@@ -44,14 +32,6 @@ Console.WriteLine('\n');
 
 
 #region Bridge
-//Bridge
-/*
- * Intent:
- * Bridge is a structural design pattern that lets you split a large class or a set of closely related classes 
- * into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
- * 
- * [picture]
- */
 Console.WriteLine("2-Bridge");
 VectorRenderer vector = new VectorRenderer();
 Circle vector_circle = new Circle(vector, 5);
@@ -90,15 +70,6 @@ Console.WriteLine('\n');
 
 
 #region Command
-//Command
-/*
- *  Intent:
- *  Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. 
- *  This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
- * 
- *  A command is nothing more than a data class with its members describing what to do and how to do it
- * [picture]
- */
 Console.WriteLine("3-Command");
 BankAccount ba = new BankAccount();
 BankAccountCommand cmdDeposit = new BankAccountCommand(ba, BankAccountCommand.Action.Deposit, 100);        //سپرده
@@ -138,7 +109,7 @@ Console.WriteLine(tp);
 // </ ul >
 #endregion
 
-//until 00:05:00
+
 #region FactoryMethod
 // * >>> The Factory Method defines a method, which should be used for creating objects
 //       instead of using a direct constructor call (new operator). 
@@ -151,7 +122,7 @@ new _5.Client().Main();
 
 #region AbstractFactory
 //* >>> The AbstractFactory produce families of related objects without specifying their concrete classes.  
-Console.WriteLine("5-AbstractFactory");
+Console.WriteLine("\n5-AbstractFactory");
 static ShapeFactory GetFactory(bool rounded)
 {
     if (rounded)
@@ -163,50 +134,51 @@ static ShapeFactory GetFactory(bool rounded)
 var basic = GetFactory(false);
 var basicRectangle = basic.Create(_5_AbstractFactory.Shape.Rectangle);
 basicRectangle.Draw(); // Basic rectangle
-var roundedSquare = GetFactory(true).Create(_5_AbstractFactory.Shape.Square); 
+var roundedSquare = GetFactory(true).Create(_5_AbstractFactory.Shape.Square);
 roundedSquare.Draw();  // Rounded square
 #endregion
 
 
 #region observer
-Console.WriteLine("6-observer");
+Console.WriteLine("\n6-observer");
 
+static void CallDoctor(object sender, FallsIllEventArgs eventArgs)
+{
+    Console.WriteLine($"A doctor has been called to {eventArgs.Address}.");
+}
+
+//As soon as CatchACold() is called, the CallDoctor() method is triggered
+var person = new _6.Person();
+person.FallsIll += CallDoctor;
+person.CatchACold();
+
+
+//Example -2
+var subject = new Subject();
+var observerA = new ConcreteObserverA();
+subject.Attach(observerA);
+
+var observerB = new ConcreteObserverB();
+subject.Attach(observerB);
+
+subject.SomeBusinessLogic();
+subject.SomeBusinessLogic();
+
+subject.Detach(observerB);
+
+subject.SomeBusinessLogic();
 #endregion
 
 
 #region template method
-// template method
-
-/*
- *  Intent:
- *  Template Method is a behavioral design pattern that allows you to define a skeleton of an algorithm in a base class 
- *  and let subclasses override the steps without changing the overall algorithm’s structure.
- * 
- *  Identification: 
- *  Template Method can be recognized if you see a method in base class that calls 
- *  a bunch of other methods that are either abstract or empty.
- * 
- */
-Console.WriteLine("7-TemplateMthod");
-
+Console.WriteLine("\n7-TemplateMthod");
+new Chess().Run();
 #endregion
 
 
 #region Adapter
-// Adapter
+Console.WriteLine("\n8-Adapter");
 
-/*
- *  Intent:
- *  The Adapter acts as a wrapper between two objects.
- *  It catches calls for one object and transforms them to format and interface recognizable by the second object.
- * 
- *  Identification: 
- *  Adapter is recognizable by a constructor which takes an instance of a different abstract/interface type.
- *  When the adapter receives a call to any of its methods, 
- *  it translates parameters to the appropriate format and then directs the call to one or several methods of the wrapped object.
- * 
- */
-Console.WriteLine("8-Adapter");
 
 #endregion
 
@@ -228,7 +200,7 @@ Console.WriteLine("8-Adapter");
  *  this is definitely a composite.
  * 
  */
-Console.WriteLine("9-Composite");
+Console.WriteLine("\n9-Composite");
 
 #endregion
 
@@ -246,7 +218,7 @@ Console.WriteLine("9-Composite");
  *  Usually, facades manage the full life cycle of objects they use.
  * 
  */
-Console.WriteLine("10-Facade");
+Console.WriteLine("\n10-Facade");
 
 #endregion
 
@@ -273,7 +245,7 @@ Console.WriteLine("10-Facade");
  * Each proxy method should, in the end, refer to a service object unless the proxy is a subclass of a service.
  * 
  */
-Console.WriteLine("11-Proxy");
+Console.WriteLine("\n11-Proxy");
 #endregion
 
 #region ProtoType
@@ -293,7 +265,7 @@ Console.WriteLine("11-Proxy");
  * Identification: 
  * The prototype can be easily recognized by a clone or copy methods, etc.
  */
-Console.WriteLine("12-ProtoType");
+Console.WriteLine("\n12-ProtoType");
 
 #endregion
 
@@ -320,7 +292,7 @@ Console.WriteLine("12-ProtoType");
  *  Singleton can be recognized by a static creation method, which returns the same cached object.
  * 
  */
-Console.WriteLine("13-Singlton");
+Console.WriteLine("\n13-Singlton");
 
 #endregion
 

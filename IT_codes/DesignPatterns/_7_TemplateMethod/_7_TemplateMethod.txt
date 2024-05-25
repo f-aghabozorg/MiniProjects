@@ -1,0 +1,43 @@
+﻿// template method
+
+/*
+
+ *  Intent:
+    Template Method is a behavioral design pattern that allows you to define a skeleton of an algorithm in a base class 
+    and let subclasses override the steps without changing the overall algorithm’s structure.
+  
+ *  Identification: 
+    Template Method can be recognized if you see a method in base class that calls 
+    a bunch of other methods that are either abstract or empty.
+
+ *  template method: 
+    Define the skeleton of an algorithm in an operation, deferring some steps to subclasses.
+    Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm's structure
+    (this is a common pattern in frameworks)
+
+    Example:
+    template poster - sth vary: polition poster - music band poster
+    some of the portion of the algorithm might not vary across diffrent specialization.
+
+
+    abstract class: a class that you can't instantiate
+    TemplateMethod()
+    abstract operation1()
+    abstract operation2()
+
+    concrete class:
+    operation1()
+    operation2()
+
+    you can not remove the notation of TemplateMethod,
+    syntantically you can (by throwing an exception) but semantically yo shouldn't.
+
+     *  The Strategy and Template Method design patterns are very similar 
+    the startegy can be used across the whole family of the algorithm, we have super composibility in startegy.
+    In strategy we have: a IAlgorithm (or Istrategy) and So many algorithm (or concrete Stategies) that the all implement the IAlgorithm
+    composition should be more favored than the inheritance and template method pattern is built around inheritance.
+
+     difference Strategy vs Template Method:
+        Template method pattern: compile-time algorithm selection by subclassing
+        Strategy pattern: run-time algorithm selection by containment
+ */

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace renderers
+namespace _2_Bridge
 {
     public interface IRenderer
     {

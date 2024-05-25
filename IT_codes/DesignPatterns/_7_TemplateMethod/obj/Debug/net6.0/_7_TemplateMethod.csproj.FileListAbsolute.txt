@@ -1,0 +1,12 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\bin\Debug\net6.0\_7_TemplateMethod.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\bin\Debug\net6.0\_7_TemplateMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\bin\Debug\net6.0\_7_TemplateMethod.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\_7_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\_7_TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\_7_TemplateMethod.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\_7_TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\_7_TemplateMethod.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\_7_TemplateMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\refint\_7_TemplateMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\_7_TemplateMethod.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_7_TemplateMethod\obj\Debug\net6.0\ref\_7_TemplateMethod.dll

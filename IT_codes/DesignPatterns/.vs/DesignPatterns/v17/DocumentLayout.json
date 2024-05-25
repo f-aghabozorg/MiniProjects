@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|_4_Strategy\\_4_Strategy.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\_4_strategy\\_4_strategy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBF49020-60A0-400F-9469-197A71218D76}|_4_Strategy\\_4_Strategy.csproj|solutionrelative:_4_strategy\\_4_strategy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C387BBA-550C-4E01-ABF2-03F480FEBF27}|_3_Command\\_3_Command.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\_3_command\\_3_command.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C387BBA-550C-4E01-ABF2-03F480FEBF27}|_3_Command\\_3_Command.csproj|solutionrelative:_3_command\\_3_command.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|_2_Bridge\\_2_Bridge.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\_2_bridge\\_2_bridge.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D2354F9-2270-466C-923E-84FC8C316FFC}|_2_Bridge\\_2_Bridge.csproj|solutionrelative:_2_bridge\\_2_bridge.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F4CF47-AD8D-4C3A-98A6-E975A66B37BD}|_1_Mediator\\_1_Mediator.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\_1_mediator\\_1_mediator.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F1F4CF47-AD8D-4C3A-98A6-E975A66B37BD}|_1_Mediator\\_1_Mediator.csproj|solutionrelative:_1_mediator\\_1_mediator.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_4_Strategy.txt",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.txt",
+              "RelativeDocumentMoniker": "_4_Strategy\\_4_Strategy.txt",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_4_Strategy\\_4_Strategy.txt",
+              "RelativeToolTip": "_4_Strategy\\_4_Strategy.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T13:43:26.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_3_Command.txt",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\_3_Command.txt",
+              "RelativeDocumentMoniker": "_3_Command\\_3_Command.txt",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_3_Command\\_3_Command.txt",
+              "RelativeToolTip": "_3_Command\\_3_Command.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T13:42:44.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_2_Bridge.txt",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\_2_Bridge.txt",
+              "RelativeDocumentMoniker": "_2_Bridge\\_2_Bridge.txt",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_2_Bridge\\_2_Bridge.txt",
+              "RelativeToolTip": "_2_Bridge\\_2_Bridge.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T13:37:45.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_1_Mediator.txt",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\_1_Mediator.txt",
+              "RelativeDocumentMoniker": "_1_Mediator\\_1_Mediator.txt",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_1_Mediator\\_1_Mediator.txt",
+              "RelativeToolTip": "_1_Mediator\\_1_Mediator.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-25T13:23:07.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
               "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAAAIwAAAAKAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T09:01:57.568Z",
+              "WhenOpened": "2024-05-25T13:23:05.178Z",
               "EditorCaption": ""
             }
           ]

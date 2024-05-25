@@ -1,0 +1,12 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\bin\Debug\net6.0\_5_AbstractFactory.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\bin\Debug\net6.0\_5_AbstractFactory.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\bin\Debug\net6.0\_5_AbstractFactory.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\_5_AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\_5_AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\_5_AbstractFactory.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\_5_AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\_5_AbstractFactory.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\_5_AbstractFactory.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\refint\_5_AbstractFactory.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\_5_AbstractFactory.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_5_AbstractFactory\obj\Debug\net6.0\ref\_5_AbstractFactory.dll

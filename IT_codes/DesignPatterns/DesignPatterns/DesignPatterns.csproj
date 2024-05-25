@@ -14,6 +14,8 @@
     <ProjectReference Include="..\_4_Strategy\_4_Strategy.csproj" />
     <ProjectReference Include="..\_5_AbstractFactory\_5_AbstractFactory.csproj" />
     <ProjectReference Include="..\_5_FactoryMethod\_5_FactoryMethod.csproj" />
+    <ProjectReference Include="..\_6_Observer\_6_Observer.csproj" />
+    <ProjectReference Include="..\_7_TemplateMethod\_7_TemplateMethod.csproj" />
   </ItemGroup>
 
 </Project>

@@ -61,6 +61,26 @@
         "runtime": {
           "bin/placeholder/_5_FactoryMethod.dll": {}
         }
+      },
+      "_6_Observer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/_6_Observer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_6_Observer.dll": {}
+        }
+      },
+      "_7_TemplateMethod/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/_7_TemplateMethod.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_7_TemplateMethod.dll": {}
+        }
       }
     }
   },
@@ -94,6 +114,16 @@
       "type": "project",
       "path": "../_5_FactoryMethod/_5_FactoryMethod.csproj",
       "msbuildProject": "../_5_FactoryMethod/_5_FactoryMethod.csproj"
+    },
+    "_6_Observer/1.0.0": {
+      "type": "project",
+      "path": "../_6_Observer/_6_Observer.csproj",
+      "msbuildProject": "../_6_Observer/_6_Observer.csproj"
+    },
+    "_7_TemplateMethod/1.0.0": {
+      "type": "project",
+      "path": "../_7_TemplateMethod/_7_TemplateMethod.csproj",
+      "msbuildProject": "../_7_TemplateMethod/_7_TemplateMethod.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -103,7 +133,9 @@
       "_3_Command >= 1.0.0",
       "_4_Strategy >= 1.0.0",
       "_5_AbstractFactory >= 1.0.0",
-      "_5_FactoryMethod >= 1.0.0"
+      "_5_FactoryMethod >= 1.0.0",
+      "_6_Observer >= 1.0.0",
+      "_7_TemplateMethod >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -151,6 +183,12 @@
             },
             "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_5_FactoryMethod\\_5_FactoryMethod.csproj": {
               "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_5_FactoryMethod\\_5_FactoryMethod.csproj"
+            },
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_6_Observer\\_6_Observer.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_6_Observer\\_6_Observer.csproj"
+            },
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_7_TemplateMethod\\_7_TemplateMethod.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_7_TemplateMethod\\_7_TemplateMethod.csproj"
             }
           }
         }

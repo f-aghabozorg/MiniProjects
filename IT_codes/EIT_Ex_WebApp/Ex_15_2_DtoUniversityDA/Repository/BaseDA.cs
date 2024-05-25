@@ -14,6 +14,7 @@ namespace Ex_15_2_DtoUniversityDA
     }
     public class BaseDA<T>: IBaseDA<T> 
     where T : class, IEntity //,new()
+        //where D : class , ... // as DTO
     {
         #region Properties
         private static UniversityContext myDB;
@@ -45,14 +46,17 @@ namespace Ex_15_2_DtoUniversityDA
         }
         public T GetItem(int id)
         {
-            return getAllAsQueryable().Where(p => p.Id == id).Single(); //return Context.Set<T>().Find(id);
+            return getAllAsQueryable().Where(p => p.Id == id).Single(); 
         }
         #endregion
 
         #region Manipulate
-        public T Insert(T entity)
+        public T Insert(T entity) //(DTO d) //which DTO
         {
             //T entity1 = new T();
+            //entity.firstname = d.firstname
+            //...
+
             MyDB.Entry(entity).State = EntityState.Added;  //Context.Set<T>().Add(entity);
             Save();
             return entity;

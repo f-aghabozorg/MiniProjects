@@ -13,9 +13,9 @@ namespace _5_AbstractFactory
             switch (shape)
             {
                 case Shape.Square:
-                    return (new Square() as IShape);
+                    return new Square() ;
                 case Shape.Rectangle:
-                    return (new Rectangle() as IShape);
+                    return new Rectangle();
                 default:
                     throw new ArgumentOutOfRangeException(
                     nameof(shape), shape, null);

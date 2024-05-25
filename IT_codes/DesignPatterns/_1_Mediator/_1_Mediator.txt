@@ -1,1 +1,18 @@
-﻿
+﻿//Mediator
+/*
+ * Intent:
+   Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects.
+   The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
+  
+ * الگوی میانجی نشان می دهد که باید تمام ارتباط مستقیم بین اجزایی را که می خواهید مستقل از یکدیگر کنید، متوقف کنید. 
+   در عوض، این مؤلفه‌ها باید به‌طور غیرمستقیم، با فراخوانی یک شی واسطه ویژه که تماس‌ها را به مؤلفه‌های مناسب هدایت می‌کند، همکاری کنند.
+   در نتیجه، مؤلفه‌ها به جای جفت شدن با ده‌ها نفر از همکارانشان، تنها به یک کلاس واسطه وابسته هستند
+ 
+ * [picture]
+ 
+ * Usage examples: 
+   The most popular usage of the Mediator pattern in C# code is facilitating communications between GUI components of an app.
+   The synonym of the Mediator is the Controller part of MVC pattern.
+
+
+ */

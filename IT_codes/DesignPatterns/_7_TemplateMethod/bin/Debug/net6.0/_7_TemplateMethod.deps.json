@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_7_TemplateMethod/1.0.0": {
+        "runtime": {
+          "_7_TemplateMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_7_TemplateMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

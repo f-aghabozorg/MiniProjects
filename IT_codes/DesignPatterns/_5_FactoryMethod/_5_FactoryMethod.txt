@@ -1,19 +1,58 @@
 ﻿// FactoryMethod
 
 /*
+
  * Factory method is a creational design pattern 
- * which solves the problem of creating product objects without specifying their concrete classes.
- * >>> The Factory Method defines a method, which should be used for creating objects instead of using a direct constructor call (new operator). 
- * Subclasses can override this method to change the class of objects that will be created.
- * 
- * 
+   which solves the problem of creating product objects without specifying their concrete classes.
+   >>> The Factory Method defines a method, which should be used for creating objects instead of using a direct constructor call (new operator). 
+   Subclasses can override this method to change the class of objects that will be created.
+  
+  
  *  Intent:
- *  Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, 
- *  but allows subclasses to alter the type of objects that will be created.
- * 
+    Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, 
+    but allows subclasses to alter the type of objects that will be created.
+    (but lets subclasses deside which class to instatiate.)
+    (when we say an inrterface it doesnt mean it can not be an abstract or super class it refers to the contract)
+  
  *  Identification:
- *  Factory methods can be recognized by creation methods that construct objects from concrete classes. 
- *  While concrete classes are used during the object creation, 
- *  the return type of the factory methods is usually declared as either an abstract class or an interface.
+    Factory methods can be recognized by creation methods that construct objects from concrete classes. 
+    While concrete classes are used during the object creation, 
+    the return type of the factory methods is usually declared as either an abstract class or an interface.
+
+ * Let's encapsulate the instatiation , abstracting the construction of an object
+   Why FactoryMehod?
+   1- Because of computation or Business Logic 
+      in order to determine Parameters you want to pass to a Particular class and work with which class
+   2- Polymorphism: wrap the construction with an instance (factory), so you can swap the instances of Factories
+
+   so when we use a factory at first when entering the factory we are not sure which class we will instatianting
+   the factory is responsible for a particular creation mechanism or a particular way of constructing the animals
+
+   Example:
+   Random Factory - Balanced Factory - animal
+   Another Example:
+   in a game app: create obsticle or enemy, asteroids, ship
+   a factory which is randomized the size or the place of astroids
+   2 levels here:
+   passing the likelihood of the astroid being big and pass the parameter speed
+   when we use factory method we have a few key classes not class explosion
+
+   when you find and use good abstraction you suddenly need fewer types
+   it's like you turn types into properties
+  
+
+
+   Generalized UML Diagram:
+   Product: can be animal in our example
+   Creator: the animal factory
+   Concrete Product: cat, dod , etc...
+   Concrete Creator: Random animal Factory, Balanced animal Factory
+
+   concrete products are products or implements product
+   all of concrete creator are craetors so we treat all concrete creator the same
+   the creator return sth of the type product
+
+ * the simple factory design pattern does not have the creator portion
+
  * 
  */

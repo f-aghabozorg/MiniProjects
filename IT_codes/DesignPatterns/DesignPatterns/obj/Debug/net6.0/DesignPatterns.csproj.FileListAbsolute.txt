@@ -47,3 +47,9 @@ C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\obj\Debug\net6.0\ref\DesignPatterns.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_5_FactoryMethod.dll
 C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_5_FactoryMethod.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_5_AbstractFactory.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_5_AbstractFactory.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_6_Observer.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_6_Observer.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_7_TemplateMethod.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\DesignPatterns\bin\Debug\net6.0\_7_TemplateMethod.pdb

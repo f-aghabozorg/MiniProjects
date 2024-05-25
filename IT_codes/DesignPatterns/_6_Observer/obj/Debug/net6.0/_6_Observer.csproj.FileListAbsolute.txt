@@ -1,0 +1,12 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\bin\Debug\net6.0\_6_Observer.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\bin\Debug\net6.0\_6_Observer.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\bin\Debug\net6.0\_6_Observer.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\_6_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\_6_Observer.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\_6_Observer.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\_6_Observer.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\_6_Observer.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\_6_Observer.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\refint\_6_Observer.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\_6_Observer.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\DesignPatterns\_6_Observer\obj\Debug\net6.0\ref\_6_Observer.dll

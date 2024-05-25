@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _5_AbstractFactory
 {
-    public class Square : ISquare
+    public class Square : ISquare ,IShape
     {
         public void Draw() => Console.WriteLine("Basic square");
     }

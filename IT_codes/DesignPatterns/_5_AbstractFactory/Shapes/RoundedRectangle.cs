@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _5_AbstractFactory
 {
-    public class RoundedRectangle : IRectangle
+    public class RoundedRectangle : IRectangle,IShape
     {
         public void Draw() => Console.WriteLine("Rounded rectangle");
     }
