@@ -14,5 +14,17 @@
    The most popular usage of the Mediator pattern in C# code is facilitating communications between GUI components of an app.
    The synonym of the Mediator is the Controller part of MVC pattern.
 
+   Pros and Cons:
+   + Single Responsibility Principle. You can extract the communications between various components into a single place,
+     making it easier to comprehend and maintain.
+   + Open/Closed Principle. You can introduce new mediators without having to change the actual components.
+   + You can reduce coupling between various components of a program.
+   + You can reuse individual components more easily.
+
+   - Over time a mediator can evolve into a God Object.
+   (In object-oriented programming, a god object (sometimes also called an omniscient or all-knowing object)
+   is an object that references a large number of distinct types, has too many unrelated or uncategorized methods,
+   or some combination of both.[1] The god object is an example of an anti-pattern and a code smell.)
+
 
  */

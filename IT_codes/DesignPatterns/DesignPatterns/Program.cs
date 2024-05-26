@@ -15,7 +15,8 @@ using _7_TemplateMethod;
 
 
 #region Mediator
-Console.WriteLine("1-Mediator");
+//reduce chaotic dependencies between objects via a mediator object
+Console.WriteLine("\n1-Mediator");
 ChatRoom room = new ChatRoom();
 _1.Person john = new _1.Person("John");
 _1.Person jane = new _1.Person("Jane");
@@ -32,6 +33,7 @@ Console.WriteLine('\n');
 
 
 #region Bridge
+//decouple an abstraction from the implementation - cartesian product
 Console.WriteLine("2-Bridge");
 VectorRenderer vector = new VectorRenderer();
 Circle vector_circle = new Circle(vector, 5);
@@ -46,13 +48,6 @@ vector_triangle.Resize(2);
 vector_triangle.Draw();
 
 DotRenderer dot = new DotRenderer(); //نکته: هر رندرر باید توانایی ایجاد همه اشکال را داشته باشد
-
-//solid principle check:
-//SPR: single responsibilty: هر رندرر یک کار انجام میدهد و آن ترسیم شکل است
-//OCP: open-closed: برای اکسپند کردن باز است و برای مودیفای کردن بسته است
-//LSP: Liskov sustitution: کلاسهایی که از آنها ارث بری میشود مورد اضافه ای ندارند
-//ISP: Interface segretion: ایترفیس ها متد اضافه ای ندارند
-//DIP: Dependancy inversion: لایه های سطح بالا نباید به لایه های سطخ پایین وابسته باشند
 
 Circle dot_circle = new Circle(dot, 5);
 dot_circle.Draw();

@@ -10,7 +10,6 @@ namespace _2_Bridge
     {
         void RenderCircle(float radius);
         void RenderTriangle(float radius);
-
         // RenderSquare, RenderTriangle, etc.
     }
 }

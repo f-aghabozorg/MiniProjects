@@ -9,6 +9,6 @@ namespace Ex_15_2_DtoUniversityBL
 {
     public class StudentBL : BaseBL<IStudentDA,IStudent>,IStudentBL
     {
-        
+     //map   
     }
 }

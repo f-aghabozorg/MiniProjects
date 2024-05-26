@@ -8,3 +8,24 @@
  A concrete method is a method that can be called directly.
 
 
+Creational patterns
+These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+این الگوها مکانیسم های مختلف ایجاد شی را ارائه می دهند که انعطاف پذیری و استفاده مجدد از کد موجود را افزایش می دهد
+
+Structural patterns
+These patterns explain how to assemble objects and classes into larger structures 
+while keeping these structures flexible and efficient.
+این الگوها نحوه جمع آوری اشیاء و کلاس ها را در ساختارهای بزرگتر توضیح می دهند و در عین حال این ساختارها را انعطاف پذیر و کارآمد نگه می دارند
+
+Behavioral patterns
+These patterns are concerned with algorithms and the assignment of responsibilities between objects.
+این الگوها با الگوریتم ها و تخصیص مسئولیت ها بین اشیا سروکار دارند
+
+
+
+//solid principle check:
+//SPR: single responsibilty: هر کلاس یک کار انجام میدهد و آن ترسیم شکل است
+//OCP: open-closed: برای اکسپند کردن باز است و برای مودیفای کردن بسته است
+//LSP: Liskov sustitution: کلاسهایی که از آنها ارث بری میشود مورد اضافه ای ندارند
+//ISP: Interface segretion: ایترفیس ها متد اضافه ای ندارند
+//DIP: Dependancy inversion: لایه های سطح بالا نباید به لایه های سطخ پایین وابسته باشند

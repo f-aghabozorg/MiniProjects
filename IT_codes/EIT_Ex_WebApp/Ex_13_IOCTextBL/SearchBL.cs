@@ -45,7 +45,7 @@ namespace Ex_13_IOCTextBL
             {
                 try
                 {
-                    query = query.Substring(0, query.Length - 7);
+                    query = query.Substring(0, query.Length - " union ".Length);
                     SqlCommand command = new SqlCommand(query, connection);
                     command.Prepare();
 
