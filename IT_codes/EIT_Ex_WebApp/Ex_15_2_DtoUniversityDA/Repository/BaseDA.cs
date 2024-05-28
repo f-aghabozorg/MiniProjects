@@ -51,12 +51,11 @@ namespace Ex_15_2_DtoUniversityDA
         #endregion
 
         #region Manipulate
-        public T Insert(T entity) //(DTO d) //which DTO
+        public virtual T Insert(T entity) //(DTO d) //which DTO
         {
             //T entity1 = new T();
             //entity.firstname = d.firstname
             //...
-
             MyDB.Entry(entity).State = EntityState.Added;  //Context.Set<T>().Add(entity);
             Save();
             return entity;

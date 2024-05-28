@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\eit_university\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|solutionrelative:eit_university\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DA36BE-C313-44E6-A9AD-B325A3BA0442}|Ex_15_2_DtoUniversityDA\\Ex_15_2_DtoUniversityDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_2_dtouniversityda\\repository\\baseda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DA36BE-C313-44E6-A9AD-B325A3BA0442}|Ex_15_2_DtoUniversityDA\\Ex_15_2_DtoUniversityDA.csproj|solutionrelative:ex_15_2_dtouniversityda\\repository\\baseda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_2_dtouniversitybl\\irepository\\ibaseda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|solutionrelative:ex_15_2_dtouniversitybl\\irepository\\ibaseda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DA36BE-C313-44E6-A9AD-B325A3BA0442}|Ex_15_2_DtoUniversityDA\\Ex_15_2_DtoUniversityDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_2_dtouniversityda\\repository\\studentda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DA36BE-C313-44E6-A9AD-B325A3BA0442}|Ex_15_2_DtoUniversityDA\\Ex_15_2_DtoUniversityDA.csproj|solutionrelative:ex_15_2_dtouniversityda\\repository\\studentda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_2_dtouniversitybl\\irepository\\istudentda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|solutionrelative:ex_15_2_dtouniversitybl\\irepository\\istudentda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_2_dtouniversitybl\\bl\\istudentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|solutionrelative:ex_15_2_dtouniversitybl\\bl\\istudentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_2_dtouniversitybl\\bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869EF540-06D6-4677-BE88-0A51F42916B7}|Ex_15_2_DtoUniversityBL\\Ex_15_2_DtoUniversityBL.csproj|solutionrelative:ex_15_2_dtouniversitybl\\bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +47,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityDA\\Repository\\BaseDA.cs",
+              "RelativeDocumentMoniker": "Ex_15_2_DtoUniversityDA\\Repository\\BaseDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityDA\\Repository\\BaseDA.cs",
+              "RelativeToolTip": "Ex_15_2_DtoUniversityDA\\Repository\\BaseDA.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:56:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBaseDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\IRepository\\IBaseDA.cs",
+              "RelativeDocumentMoniker": "Ex_15_2_DtoUniversityBL\\IRepository\\IBaseDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\IRepository\\IBaseDA.cs",
+              "RelativeToolTip": "Ex_15_2_DtoUniversityBL\\IRepository\\IBaseDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:26:13.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityDA\\Repository\\StudentDA.cs",
+              "RelativeDocumentMoniker": "Ex_15_2_DtoUniversityDA\\Repository\\StudentDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityDA\\Repository\\StudentDA.cs",
+              "RelativeToolTip": "Ex_15_2_DtoUniversityDA\\Repository\\StudentDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:33:25.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\IRepository\\IStudentDA.cs",
+              "RelativeDocumentMoniker": "Ex_15_2_DtoUniversityBL\\IRepository\\IStudentDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\IRepository\\IStudentDA.cs",
+              "RelativeToolTip": "Ex_15_2_DtoUniversityBL\\IRepository\\IStudentDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:24:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\BL\\IStudentBL.cs",
+              "RelativeDocumentMoniker": "Ex_15_2_DtoUniversityBL\\BL\\IStudentBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\BL\\IStudentBL.cs",
+              "RelativeToolTip": "Ex_15_2_DtoUniversityBL\\BL\\IStudentBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:20:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\BL\\StudentBL.cs",
+              "RelativeDocumentMoniker": "Ex_15_2_DtoUniversityBL\\BL\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_2_DtoUniversityBL\\BL\\StudentBL.cs",
+              "RelativeToolTip": "Ex_15_2_DtoUniversityBL\\BL\\StudentBL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:30:48.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_University\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "EIT_University\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_University\\Default.aspx.cs",
+              "RelativeToolTip": "EIT_University\\Default.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:12:04.548Z",
+              "EditorCaption": ""
             }
           ]
         }

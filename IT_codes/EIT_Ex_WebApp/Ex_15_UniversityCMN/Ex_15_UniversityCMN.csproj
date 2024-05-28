@@ -67,6 +67,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ex_15_2_DtoUniversityCMN\Ex_15_2_DtoUniversityCMN.csproj">
+      <Project>{ac8fb67d-3280-4b40-935e-5d6759152bc0}</Project>
+      <Name>Ex_15_2_DtoUniversityCMN</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>

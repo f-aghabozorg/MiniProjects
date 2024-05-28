@@ -68,10 +68,16 @@
     <Compile Include="BL\StudentBL.cs" />
     <Compile Include="BL\TeacherBL.cs" />
     <Compile Include="BL\UserBL.cs" />
+    <Compile Include="DTOs\StudentDto.cs" />
+    <Compile Include="DTOs\TeacherDto.cs" />
+    <Compile Include="DTOs\UserDto.cs" />
+    <Compile Include="IEntity\Entity.cs" />
     <Compile Include="IEntity\IEntity.cs" />
     <Compile Include="IEntity\IStudent.cs" />
     <Compile Include="IEntity\ITeacher.cs" />
     <Compile Include="IEntity\IUser.cs" />
+    <Compile Include="IEntity\Student.cs" />
+    <Compile Include="IEntity\User.cs" />
     <Compile Include="IRepository\IBaseDA.cs" />
     <Compile Include="IRepository\IStudentDA.cs" />
     <Compile Include="IRepository\ITeacherDA.cs" />
