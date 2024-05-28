@@ -66,7 +66,8 @@ namespace Ex_12_1_TPH_EntekhabReshteDA
 
 
                 modelBuilder.Entity<User>()
-                 .Map<Teacher>(m => m.Requires("UserType").HasValue(0)) //discriminatorColumn: userType , discriminatorValue = 0
+                 .Map<Teacher>(m => m.Requires("UserType").HasValue(0)) //discriminatorColumn: userType
+                                                                        //, discriminatorValue = 0
                  .Map<Student>(m => m.Requires("UserType").HasValue(1));
 
                 modelBuilder.Entity<User>()
