@@ -13,6 +13,9 @@ namespace CinemaDA.Entities
         public string Name { get; set; }
         public int Capacity { get; set; }
         public int RowCount { get; set; }
+        public int CinemaId { get; set; }
+
+        public Cinema Cinema { get; set; }
 
         public virtual ICollection<Show> Show { get; set; }
     }

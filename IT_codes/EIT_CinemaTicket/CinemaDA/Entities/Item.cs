@@ -12,8 +12,12 @@ namespace CinemaDA.Entities
         public string Title { get; set; }
         public int Duration { get; set; }
         public string Director { get; set; }
-
-
-
+        public string Genre { get; set; }
+        public Item_Type ItemType { get; set; }
+        public enum Item_Type
+        {
+            Movie,
+            Theatre
+        }
     }
 }

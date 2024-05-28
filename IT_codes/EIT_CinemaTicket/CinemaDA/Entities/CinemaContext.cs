@@ -18,16 +18,23 @@ namespace CinemaDA.Entities
         public DbSet<Cinema> Cinema { get; set; }
         public DbSet<City> City { get; set; }
         public DbSet<Item> Item { get; set; }
-        public DbSet<Movie> Movie { get; set; }
         public DbSet<Reservation> Reservation { get; set; }
         public DbSet<Room> Room { get; set; }
         public DbSet<Seat> Seat { get; set; }
         public DbSet<Show> Show { get; set; }
-        public DbSet<Theatre> Theatre { get; set; }
         public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Cinema>().ToTable("Cinema");
+            modelBuilder.Entity<City>().ToTable("City");
+            modelBuilder.Entity<Item>().ToTable("Item");
+            modelBuilder.Entity<Reservation>().ToTable("Reservation");
+            modelBuilder.Entity<Room>().ToTable("Room");
+            modelBuilder.Entity<Seat>().ToTable("Seat");
+            modelBuilder.Entity<Show>().ToTable("Show");
+            modelBuilder.Entity<User>().ToTable("User");
+
             modelBuilder.Entity<User>()
              .HasMany(e => e.Reservation)
              .WithRequired(e => e.User)
@@ -44,7 +51,7 @@ namespace CinemaDA.Entities
           .WillCascadeOnDelete(true);
 
             modelBuilder.Entity<Cinema>()
-          .HasMany(e => e.Show)
+          .HasMany(e => e.Room)
           .WithRequired(e => e.Cinema)
           .WillCascadeOnDelete(true);
 
@@ -53,18 +60,7 @@ namespace CinemaDA.Entities
           .WithRequired(e => e.City)
           .WillCascadeOnDelete(true);
 
-            //TPC
-            modelBuilder.Entity<Movie>().Map(m =>
-            {
-                m.MapInheritedProperties();
-                m.ToTable("Movie");
-            });
-
-            modelBuilder.Entity<Theatre>().Map(m =>
-            {
-                m.MapInheritedProperties();
-                m.ToTable("Theatre");
-            });
+          
         }
     }
 }

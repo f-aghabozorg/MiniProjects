@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\eit_university\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|solutionrelative:eit_university\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEAA1C24-C746-4190-ADB2-C18C5FEA995C}|Ex_15_UniversityDA\\Ex_15_UniversityDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_universityda\\entities\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEAA1C24-C746-4190-ADB2-C18C5FEA995C}|Ex_15_UniversityDA\\Ex_15_UniversityDA.csproj|solutionrelative:ex_15_universityda\\entities\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\eit_university\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|solutionrelative:eit_university\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\eit_university\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|solutionrelative:eit_university\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_UniversityDA\\Entities\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "Ex_15_UniversityDA\\Entities\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_UniversityDA\\Entities\\UniversityContext.cs",
+              "RelativeToolTip": "Ex_15_UniversityDA\\Entities\\UniversityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:32:40.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_University\\Default.aspx.cs",
               "RelativeDocumentMoniker": "EIT_University\\Default.aspx.cs",
@@ -38,8 +55,7 @@
               "RelativeToolTip": "EIT_University\\Default.aspx.cs",
               "ViewState": "AQIAAF4AAAAAAAAAAAAQwH8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T11:59:34.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T11:59:34.042Z"
             },
             {
               "$type": "Document",
@@ -49,7 +65,7 @@
               "RelativeDocumentMoniker": "EIT_University\\Global.asax.cs",
               "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_University\\Global.asax.cs",
               "RelativeToolTip": "EIT_University\\Global.asax.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T11:59:22.469Z",
               "EditorCaption": ""
