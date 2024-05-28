@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4027BA78-00FA-48BA-B3BA-CA39762BC481}|DesignPatterns\\DesignPatterns.csproj|solutionrelative:designpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7776FE2-CC93-4970-9F27-DF640A85935D}|_9_Composite\\_9_Composite.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\designpatterns\\_9_composite\\_9_composite.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D7776FE2-CC93-4970-9F27-DF640A85935D}|_9_Composite\\_9_Composite.csproj|solutionrelative:_9_composite\\_9_composite.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_9_Composite.txt",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_9_Composite\\_9_Composite.txt",
+              "RelativeDocumentMoniker": "_9_Composite\\_9_Composite.txt",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\_9_Composite\\_9_Composite.txt",
+              "RelativeToolTip": "_9_Composite\\_9_Composite.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-28T06:21:42.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeDocumentMoniker": "DesignPatterns\\Program.cs",
               "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\DesignPatterns\\DesignPatterns\\Program.cs",
               "RelativeToolTip": "DesignPatterns\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAALYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T06:10:31.941Z",
               "EditorCaption": ""
