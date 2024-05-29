@@ -11,12 +11,32 @@
       "RelativeMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|solutionrelative:cinemada\\repository\\baseda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{92BA6E45-CFE5-4DEC-B06D-41E253C375E4}|EIT_Cinema\\EIT_Cinema.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\eit_cinema\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BA6E45-CFE5-4DEC-B06D-41E253C375E4}|EIT_Cinema\\EIT_Cinema.csproj|solutionrelative:eit_cinema\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919B5781-087E-4815-914F-42F62AA7ABAD}|CinemaBL\\CinemaBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\cinemabl\\irepository\\ibaseda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919B5781-087E-4815-914F-42F62AA7ABAD}|CinemaBL\\CinemaBL.csproj|solutionrelative:cinemabl\\irepository\\ibaseda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{919B5781-087E-4815-914F-42F62AA7ABAD}|CinemaBL\\CinemaBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\cinemabl\\bl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{919B5781-087E-4815-914F-42F62AA7ABAD}|CinemaBL\\CinemaBL.csproj|solutionrelative:cinemabl\\bl\\basebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\cinemada\\repository\\reservationda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|solutionrelative:cinemada\\repository\\reservationda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\cinemada\\repository\\cinemada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|solutionrelative:cinemada\\repository\\cinemada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\cinemada\\repository\\userda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|solutionrelative:cinemada\\repository\\userda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\cinemada\\repository\\cityda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|solutionrelative:cinemada\\repository\\cityda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_cinematicket\\cinemada\\repository\\showda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155059A6-3FFC-49AC-97CD-CFFF61819387}|CinemaDA\\CinemaDA.csproj|solutionrelative:cinemada\\repository\\showda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,14 +59,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\EIT_Cinema\\Test.cs",
+              "RelativeDocumentMoniker": "EIT_Cinema\\Test.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\EIT_Cinema\\Test.cs",
+              "RelativeToolTip": "EIT_Cinema\\Test.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAlwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:22:16.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaBL\\BL\\BaseBL.cs",
+              "RelativeDocumentMoniker": "CinemaBL\\BL\\BaseBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaBL\\BL\\BaseBL.cs",
+              "RelativeToolTip": "CinemaBL\\BL\\BaseBL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:14:40.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "CinemaDA.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\CinemaDA.cs",
               "RelativeDocumentMoniker": "CinemaDA\\Repository\\CinemaDA.cs",
               "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\CinemaDA.cs",
               "RelativeToolTip": "CinemaDA\\Repository\\CinemaDA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:03:13.584Z",
+              "WhenOpened": "2024-05-29T09:14:29.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\CityDA.cs",
+              "RelativeDocumentMoniker": "CinemaDA\\Repository\\CityDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\CityDA.cs",
+              "RelativeToolTip": "CinemaDA\\Repository\\CityDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:14:25.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\ShowDA.cs",
+              "RelativeDocumentMoniker": "CinemaDA\\Repository\\ShowDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\ShowDA.cs",
+              "RelativeToolTip": "CinemaDA\\Repository\\ShowDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:11:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBaseDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaBL\\IRepository\\IBaseDA.cs",
+              "RelativeDocumentMoniker": "CinemaBL\\IRepository\\IBaseDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaBL\\IRepository\\IBaseDA.cs",
+              "RelativeToolTip": "CinemaBL\\IRepository\\IBaseDA.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:10:57.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationDA.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\ReservationDA.cs",
+              "RelativeDocumentMoniker": "CinemaDA\\Repository\\ReservationDA.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\ReservationDA.cs",
+              "RelativeToolTip": "CinemaDA\\Repository\\ReservationDA.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:09:39.192Z",
               "EditorCaption": ""
             },
             {
@@ -57,22 +155,9 @@
               "RelativeDocumentMoniker": "CinemaDA\\Repository\\BaseDA.cs",
               "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\BaseDA.cs",
               "RelativeToolTip": "CinemaDA\\Repository\\BaseDA.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAWwCMAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:03:11.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserDA.cs",
-              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\UserDA.cs",
-              "RelativeDocumentMoniker": "CinemaDA\\Repository\\UserDA.cs",
-              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\CinemaDA\\Repository\\UserDA.cs",
-              "RelativeToolTip": "CinemaDA\\Repository\\UserDA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:02:52.552Z",
+              "WhenOpened": "2024-05-29T09:06:39.362Z",
               "EditorCaption": ""
             },
             {
@@ -83,7 +168,7 @@
               "RelativeDocumentMoniker": "EIT_Cinema\\Program.cs",
               "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_CinemaTicket\\EIT_Cinema\\Program.cs",
               "RelativeToolTip": "EIT_Cinema\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEYAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAtwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T07:10:15.337Z",
               "EditorCaption": ""

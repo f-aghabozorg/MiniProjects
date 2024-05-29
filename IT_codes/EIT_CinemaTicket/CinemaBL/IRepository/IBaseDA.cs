@@ -15,7 +15,7 @@ namespace CinemaBL.IRepository
     public interface IBaseDA<T> where T : class, IEntity
     {
         #region Get
-        //IQueryable<T> getAllAsQueryable();
+        //IQueryable<T> GetAllAsQueryable();
         T GetItem(int id);
         #endregion
 

@@ -13,7 +13,8 @@ namespace CinemaDA.Repository
     {
 
     }
-    public class BaseDA<T> : IBaseDA<T>
+    //public class BaseDA<T> : IBaseDA<T>
+    public abstract class BaseDA<T> : IBaseDA<T>
     where T : class, IEntity
     {
         #region Properties
@@ -32,21 +33,21 @@ namespace CinemaDA.Repository
         #endregion
 
         #region Get
-        protected IQueryable<T> getAllAsQueryable()
+        protected IQueryable<T> GetAllAsQueryable()
         {
             return (from p in MyDB.Set<T>()
                     select p);
         }
-        protected IQueryable<T> getAllAsQueryable(string[] includeList)
+        protected IQueryable<T> GetAllAsQueryable(string[] includeList)
         {
-            IQueryable<T> query = getAllAsQueryable();
+            IQueryable<T> query = GetAllAsQueryable();
             foreach (string include in includeList)
                 query = query.Include(include);
             return query;
         }
         public T GetItem(int id)
         {
-            return getAllAsQueryable().Where(p => p.Id == id).Single(); //return Context.Set<T>().Find(id);
+            return GetAllAsQueryable().Where(p => p.Id == id).Single(); //return Context.Set<T>().Find(id);
         }
         #endregion
 
@@ -89,8 +90,8 @@ namespace CinemaDA.Repository
                 try
                 {
                     //if (entity.State == EntityState.Added)
-                    //(entity as IEntity).Id = getAllAsQueryable().Any() ? getAllAsQueryable().Max(p => p.Id) + 1 : 1;
-                    //entity.Property("Id").CurrentValue = getAllAsQueryable().Any() ? getAllAsQueryable().Max(p => p.Id) + 1 : 1;
+                    //(entity as IEntity).Id = GetAllAsQueryable().Any() ? GetAllAsQueryable().Max(p => p.Id) + 1 : 1;
+                    //entity.Property("Id").CurrentValue = GetAllAsQueryable().Any() ? GetAllAsQueryable().Max(p => p.Id) + 1 : 1;
                 }
                 catch (Exception ex)
                 {

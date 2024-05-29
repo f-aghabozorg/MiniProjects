@@ -41,6 +41,7 @@ Test.CreateEntity(out Cinema, out City, out Item, out Reservation
                 , RoomBL, SeatBL, ShowBL, UserBL);
 
 Console.WriteLine("Insert Completed!");
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
 DateTime StartDate = DateTime.Parse("2024-05-01", CultureInfo.InvariantCulture);

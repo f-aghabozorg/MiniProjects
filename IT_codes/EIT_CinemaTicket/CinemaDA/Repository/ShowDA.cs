@@ -15,7 +15,7 @@ namespace CinemaDA.Repository
         //برای یک سینمای مشخص در فلان روز سانس ها در چه ساعاتی هست؟
         public List<DTO_ShowTime> ShowTimeListForCinema(string CinemaName, DateTime Date)
         {
-            return getAllAsQueryable()
+            return GetAllAsQueryable()
                    .Where(x => x.Room.Cinema.Name == CinemaName
                               && EntityFunctions.TruncateTime(x.Date) == Date.Date)
                    .Select(x => new DTO_ShowTime
@@ -30,7 +30,7 @@ namespace CinemaDA.Repository
         //برای یک فیلم مشخص چه سینماهایی در چه سانس هایی این فیلم اکران میشود؟
         public List<DTO_CinemaShowTime> ShowListMovieForCinema(string MovieTitle)
         {
-            return getAllAsQueryable()
+            return GetAllAsQueryable()
                    .Where(x => x.Item.Title == MovieTitle
                               && x.Item.ItemType == Item.Item_Type.Movie)
                    .Select(x => new DTO_CinemaShowTime
