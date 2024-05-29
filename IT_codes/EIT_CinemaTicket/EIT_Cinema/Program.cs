@@ -36,25 +36,8 @@ User User;
 
 Test.CreateEntity(out Cinema, out City, out Item, out Reservation
                 , out Room, out Seat, out Show, out User
-                , CinemaBL,  CityBL,  ItemBL, ReservationBL
-                , RoomBL , SeatBL,  ShowBL,  UserBL);
+                , CinemaBL, CityBL, ItemBL, ReservationBL
+                , RoomBL, SeatBL, ShowBL, UserBL);
 
 Console.WriteLine("Insert Completed!");
-
-//چند نفر امروز رزرو کرده اند؟
-var x = ReservationBL.GetAllAsQueryable();
-
-//از تاریخ فلان تا فلان چند نفر رزرو کرده اند؟
-Console.WriteLine();
-//برای سینمای مشخصی از تاریخ فلان تا فلان چند نفر رزرو کرده اند؟
-
-//از تاریخ فلان تا فلان چند نفر لغو کرده اند؟
-
-//برای یک سینمای مشخص در فلان روز سانس ها در چه ساعاتی هست؟
-
-//برای یک فیلم مشخص چه سینماهایی در چه سانس هایی این فیلم اکران میشود؟
-
-
-
-
 ///////////////////////////////////////////////////////////////////////////////////////////////////

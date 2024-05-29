@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_11_entekhabreshtebl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|solutionrelative:ex_11_entekhabreshtebl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_11_entekhabreshtebl\\teacherbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|solutionrelative:ex_11_entekhabreshtebl\\teacherbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_11_entekhabreshtebl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA275F57-718A-49B8-8808-3C4DDB5C2B78}|Ex_11_EntekhabReshteBL\\Ex_11_EntekhabReshteBL.csproj|solutionrelative:ex_11_entekhabreshtebl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEAA1C24-C746-4190-ADB2-C18C5FEA995C}|Ex_15_UniversityDA\\Ex_15_UniversityDA.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\ex_15_universityda\\entities\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEAA1C24-C746-4190-ADB2-C18C5FEA995C}|Ex_15_UniversityDA\\Ex_15_UniversityDA.csproj|solutionrelative:ex_15_universityda\\entities\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|c:\\users\\computer engineer\\desktop\\github\\mini projects\\it_codes\\eit_ex_webapp\\eit_university\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\eit_university\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C6B757E-C471-430C-B23C-1F17F8F8FAF8}|EIT_University\\EIT_University.csproj|solutionrelative:eit_university\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,6 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\UserBL.cs",
+              "RelativeDocumentMoniker": "Ex_11_EntekhabReshteBL\\UserBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\UserBL.cs",
+              "RelativeToolTip": "Ex_11_EntekhabReshteBL\\UserBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:43:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\TeacherBL.cs",
+              "RelativeDocumentMoniker": "Ex_11_EntekhabReshteBL\\TeacherBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\TeacherBL.cs",
+              "RelativeToolTip": "Ex_11_EntekhabReshteBL\\TeacherBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:41:58.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\StudentBL.cs",
+              "RelativeDocumentMoniker": "Ex_11_EntekhabReshteBL\\StudentBL.cs",
+              "ToolTip": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_11_EntekhabReshteBL\\StudentBL.cs",
+              "RelativeToolTip": "Ex_11_EntekhabReshteBL\\StudentBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T03:41:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UniversityContext.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\Ex_15_UniversityDA\\Entities\\UniversityContext.cs",
               "RelativeDocumentMoniker": "Ex_15_UniversityDA\\Entities\\UniversityContext.cs",
@@ -47,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_University\\Default.aspx.cs",
               "RelativeDocumentMoniker": "EIT_University\\Default.aspx.cs",
@@ -59,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_Ex_WebApp\\EIT_University\\Global.asax.cs",
               "RelativeDocumentMoniker": "EIT_University\\Global.asax.cs",
@@ -67,8 +118,7 @@
               "RelativeToolTip": "EIT_University\\Global.asax.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T11:59:22.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T11:59:22.469Z"
             }
           ]
         }

@@ -1,0 +1,91 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.exe
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.dll.config
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.runtimeconfig.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\Unity.Container.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaBL.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaDA.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaBL.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaCMN.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaDA.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.csproj.Up2Date
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\refint\EIT_Cinema.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\EIT_Cinema\obj\Debug\net6.0\ref\EIT_Cinema.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\refint\EIT_Cinema.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.pdb
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.exe
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.dll.config
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.deps.json
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.runtimeconfig.json
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EIT_Cinema.pdb
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\Unity.Container.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaBL.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaDA.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaBL.pdb
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaCMN.pdb
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\bin\Debug\net6.0\CinemaDA.pdb
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.csproj.Up2Date
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\EIT_Cinema.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\EIT_Cinema\obj\Debug\net6.0\ref\EIT_Cinema.dll

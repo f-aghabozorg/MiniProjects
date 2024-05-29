@@ -1,0 +1,29 @@
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.deps.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.runtimeconfig.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.sourcelink.json
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\refint\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.pdb
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\github\Mini Projects\IT_codes\EIT_CinemaTicket\CinemaCMN\obj\Debug\net6.0\ref\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.deps.json
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.runtimeconfig.json
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\bin\Debug\net6.0\CinemaCMN.pdb
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.csproj.AssemblyReference.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.AssemblyInfoInputs.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.AssemblyInfo.cs
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.csproj.CoreCompileInputs.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\refint\CinemaCMN.dll
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.pdb
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\CinemaCMN.genruntimeconfig.cache
+C:\Users\computer engineer\Desktop\EIT_FilterCinemaTicket\CinemaCMN\obj\Debug\net6.0\ref\CinemaCMN.dll

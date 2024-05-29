@@ -41,9 +41,6 @@ namespace CinemaBL.BL
         {
             UnityManager.Container.Resolve<IBaseDA>().Delete(entity);
         }
-        public virtual IQueryable GetAllAsQueryable()
-        {
-            return UnityManager.Container.Resolve<IBaseDA>().getAllAsQueryable();
-        }
+    
     }
 }
