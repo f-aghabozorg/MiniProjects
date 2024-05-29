@@ -32,7 +32,7 @@ namespace CinemaDA.Repository
         #endregion
 
         #region Get
-        protected IQueryable<T> getAllAsQueryable()
+        public IQueryable<T> getAllAsQueryable()
         {
             return (from p in MyDB.Set<T>()
                     select p);

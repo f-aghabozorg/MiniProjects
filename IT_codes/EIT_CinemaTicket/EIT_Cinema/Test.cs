@@ -140,7 +140,6 @@ namespace EIT_Cinema
 
         }
         static T Resolve<T>() => UnityManager.Container.Resolve<T>();
-
         public static void UnityResolve(out ICinemaBL CinemaBL, out ICityBL CityBL, out IItemBL ItemBL,
                                 out IReservationBL ReservationBL, out IRoomBL RoomBL,
                                 out ISeatBL SeatBL, out IShowBL ShowBL, out IUserBL UserBL)

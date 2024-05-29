@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EIT_Cinema")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+772b9bf0e35f0552e4732157ca99b2b6d41c1916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f7bbb55c8f18958a48389798cdab02adb766309")]
 [assembly: System.Reflection.AssemblyProductAttribute("EIT_Cinema")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EIT_Cinema")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,7 +18,7 @@ namespace CinemaBL.IBL
         where T : class, IBaseDA<E>
         where E : class, IEntity
     {
-
+        IQueryable GetAllAsQueryable();
         void Submit(E entity);
         void Insert(E entity);
         void Update(E entity);

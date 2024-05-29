@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using Unity;
 using CinemaCMN;
 using CinemaBL.IRepository;
+using static Unity.Storage.RegistrationSet;
 
 namespace CinemaBL.BL
 {
@@ -40,6 +41,9 @@ namespace CinemaBL.BL
         {
             UnityManager.Container.Resolve<IBaseDA>().Delete(entity);
         }
-
+        public virtual IQueryable GetAllAsQueryable()
+        {
+            return UnityManager.Container.Resolve<IBaseDA>().getAllAsQueryable();
+        }
     }
 }
