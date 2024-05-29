@@ -9,7 +9,7 @@ using CinemaDA.Entities;
 
 namespace CinemaBL.BL
 {
-    public class CinemaBL : BaseBL<ICinemaDA, ICinema>, ICinemaBL
+    public class CinemaBL : BaseBL<ICinemaDA, Cinema>, ICinemaBL
     {
     }
 }

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.BL
 {
-    public class CityBL : BaseBL<ICityDA, ICity>, ICityBL
+    public class CityBL : BaseBL<ICityDA, City>, ICityBL
     {
     }
 }

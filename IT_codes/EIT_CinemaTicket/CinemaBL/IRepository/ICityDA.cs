@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.IRepository
 {
-    public interface ICityDA :IBaseDA<ICity>
+    public interface ICityDA :IBaseDA<City>
     {
     }
 }

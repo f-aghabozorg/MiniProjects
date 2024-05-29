@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CinemaDA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f53fbfdbb20b66e9f9c6b7c1811ecf3ef19688a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd16133af0f1c26c6e41bf65ee00e3373ae72deb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CinemaDA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CinemaDA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

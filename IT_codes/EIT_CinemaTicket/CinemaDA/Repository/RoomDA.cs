@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CinemaDA.Repository
 {
-    public class RoomDA: BaseDA<IRoom>, IRoomDA
+    public class RoomDA: BaseDA<Room>, IRoomDA
     {
     }
 }

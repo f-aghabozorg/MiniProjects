@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.BL
 {
-    public class RoomBL : BaseBL<IRoomDA, IRoom>, IRoomBL
+    public class RoomBL : BaseBL<IRoomDA, Room>, IRoomBL
     {
     }
 }

@@ -9,7 +9,7 @@ using CinemaBL.BL;
 
 namespace CinemaDA.Repository
 {
-    public class CityDA: BaseDA<ICity>, ICityDA
+    public class CityDA: BaseDA<City>, ICityDA
     {
     }
 }

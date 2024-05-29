@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.BL
 {
-    public class ItemBL : BaseBL<IItemDA, IItem>, IItemBL
+    public class ItemBL : BaseBL<IItemDA, Item>, IItemBL
     {
     }
 }

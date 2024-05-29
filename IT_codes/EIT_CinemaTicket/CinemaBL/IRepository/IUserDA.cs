@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.IRepository
 {
-    public interface IUserDA : IBaseDA<IUser>
+    public interface IUserDA : IBaseDA<User>
     {
     }
 }

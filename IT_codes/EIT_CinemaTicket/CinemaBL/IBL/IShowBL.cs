@@ -1,4 +1,5 @@
-﻿using CinemaBL.IRepository;
+﻿using CinemaBL.DTO;
+using CinemaBL.IRepository;
 using CinemaDA.Entities;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,9 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.IBL
 {
-    public interface IShowBL : IBaseBL<IBaseDA<IShow>, IShow>
+    public interface IShowBL : IBaseBL<IBaseDA<Show>, Show>
     {
+        List<DTO_ShowTime> ShowTimeListForCinema(string CinemaName, DateTime Date);
+        List<DTO_CinemaShowTime> ShowListMovieForCinema(string MovieTitle);
     }
 }

@@ -11,7 +11,7 @@ using CinemaDA.Repository;
 
 namespace CinemaDA.Repository
 {
-    public class UserDA: BaseDA<IUser>, IUserDA
+    public class UserDA: BaseDA<User>, IUserDA
     {
     }
 }

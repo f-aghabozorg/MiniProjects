@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.IBL
 {
-    public interface ICityBL : IBaseBL<IBaseDA<ICity>, ICity>
+    public interface ICityBL : IBaseBL<IBaseDA<City>, City>
     {
     }
 }

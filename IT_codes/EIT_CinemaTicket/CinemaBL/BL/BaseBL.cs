@@ -21,26 +21,33 @@ namespace CinemaBL.BL
         where T : class, IBaseDA<E>
         where E : class, IEntity
     {
+        private readonly IBaseDA baseDA;
+        public BaseBL()
+        {
+            baseDA = UnityManager.Container.Resolve<IBaseDA>();
+
+        }
         public virtual void Submit(E entity)
         {
-            UnityManager.Container.Resolve<IBaseDA>().Save();
+            baseDA.Save();
             //((T)Activator.CreateInstance<T>()).Save();    //reflection
         }
         public virtual void Insert(E entity)
         {
-            UnityManager.Container.Resolve<IBaseDA>().Insert(entity);
+            baseDA.Insert(entity);
 
         }
 
         public virtual void Update(E entity)
         {
-            UnityManager.Container.Resolve<IBaseDA>().Update(entity);
+            baseDA.Update(entity);
         }
 
         public virtual void Delete(E entity)
         {
-            UnityManager.Container.Resolve<IBaseDA>().Delete(entity);
+            baseDA.Delete(entity);
         }
-    
+       
+
     }
 }

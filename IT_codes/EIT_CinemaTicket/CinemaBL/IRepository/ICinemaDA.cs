@@ -7,7 +7,7 @@ using CinemaDA.Entities;
 
 namespace CinemaBL.IRepository
 {
-    public interface ICinemaDA:IBaseDA<ICinema>
+    public interface ICinemaDA:IBaseDA<Cinema>
     {
     }
 }

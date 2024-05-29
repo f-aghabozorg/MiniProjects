@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.BL
 {
-    public class SeatBL : BaseBL<ISeatDA, ISeat>, ISeatBL
+    public class SeatBL : BaseBL<ISeatDA, Seat>, ISeatBL
     {
     }
 }

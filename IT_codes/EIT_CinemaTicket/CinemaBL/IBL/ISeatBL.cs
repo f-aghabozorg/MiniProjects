@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CinemaBL.IBL
 {
-    public interface ISeatBL : IBaseBL<IBaseDA<ISeat>, ISeat>
+    public interface ISeatBL : IBaseBL<IBaseDA<Seat>, Seat>
     {
     }
 }

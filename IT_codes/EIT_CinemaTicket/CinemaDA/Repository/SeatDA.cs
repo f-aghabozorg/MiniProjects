@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CinemaDA.Repository
 {
-    public class SeatDA: BaseDA<ISeat>, ISeatDA
+    public class SeatDA: BaseDA<Seat>, ISeatDA
     {
     }
 }

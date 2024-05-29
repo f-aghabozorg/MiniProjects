@@ -8,7 +8,7 @@ using CinemaDA.Entities;
 
 namespace CinemaBL.IBL
 {
-    public interface ICinemaBL : IBaseBL<IBaseDA<ICinema>, ICinema>
+    public interface ICinemaBL : IBaseBL<IBaseDA<Cinema>, Cinema>
     {
     }
 }
