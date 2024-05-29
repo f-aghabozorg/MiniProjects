@@ -1,16 +1,9 @@
 ﻿using CinemaBL.BL;
 using CinemaBL.IBL;
 using CinemaCMN;
-using CinemaDA.Repository;
 using CinemaDA.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static CinemaDA.Entities.Item;
 using Unity;
-using CinemaDA.IRepository;
+using static CinemaDA.Entities.Item;
 
 
 namespace EIT_Cinema
@@ -20,16 +13,6 @@ namespace EIT_Cinema
         static void RegisterT<I, D>() where D : class, I => UnityManager.Container.RegisterType<I, D>();
         public static void StartApp()
         {
-            RegisterT<IBaseDA, BaseDA>();
-            RegisterT<ICinemaDA, CinemaDA.Repository.CinemaDA>();
-            RegisterT<ICityDA, CityDA>();
-            RegisterT<IItemDA, ItemDA>();
-            RegisterT<IReservationDA, ReservationDA>();
-            RegisterT<IRoomDA, RoomDA>();
-            RegisterT<ISeatDA, SeatDA>();
-            RegisterT<IShowDA, ShowDA>();
-            RegisterT<IUserDA, UserDA>();
-
             RegisterT<IBaseBL, BaseBL>();
             RegisterT<ICinemaBL, CinemaBL.BL.CinemaBL>();
             RegisterT<ICityBL, CityBL>();
@@ -110,7 +93,6 @@ namespace EIT_Cinema
 
             Show = new Show()
             {
-                Item = Item,
                 ItemId = Item.Id,
                 RoomId = Room.Id,
                 Date = DateTime.Now,

@@ -1,28 +1,27 @@
-﻿using CinemaDA.IRepository;
-using CinemaDA.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CinemaDA.Entities;
 
 namespace CinemaBL.IBL
 {
 
-    public interface IBaseBL : IBaseBL<IBaseDA, IEntity>
+    public interface IBaseBL : IBaseBL<IEntity>
     {
 
     }
 
-    public interface IBaseBL<T, E>
-        where T : class, IBaseDA<E>
+    public interface IBaseBL<E>
         where E : class, IEntity
     {
-        IQueryable GetAllAsQueryable();
-        void Submit(E entity);
-        void Insert(E entity);
-        void Update(E entity);
-        void Delete(E entity);
+        #region Get
+        IQueryable<E> getAllAsQueryable();
+        E GetItem(int id);
+        #endregion
+
+        #region manipulate
+        E Insert(E entity);
+        E Update(E entity);
+        E Delete(E entity);
+        void Save();
+        #endregion
 
     }
 

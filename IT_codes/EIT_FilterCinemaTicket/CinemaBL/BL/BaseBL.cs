@@ -1,55 +1,105 @@
 ﻿using CinemaBL.IBL;
 using CinemaDA.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Unity;
-using CinemaCMN;
-using CinemaDA.IRepository;
-using static Unity.Storage.RegistrationSet;
+using System.Data.Entity;
 
 namespace CinemaBL.BL
 {
 
-    public class BaseBL : BaseBL<IBaseDA, IEntity>, IBaseBL
+    public class BaseBL : BaseBL<IEntity>, IBaseBL
     {
 
     }
-    public class BaseBL<T, E> : IBaseBL<T, E>
-        where T : class, IBaseDA<E>
-        where E : class, IEntity
+    public class BaseBL<E> : IBaseBL<E>
+        where E : class , IEntity
     {
-        public virtual void Submit(E entity)
+        #region Properties
+        private static CinemaContext myDB;
+
+        private CinemaContext MyDB
         {
-            UnityManager.Container.Resolve<IBaseDA>().Save();
-            //((T)Activator.CreateInstance<T>()).Save();    //reflection
+            get
+            {
+                if (myDB == null)
+                    myDB = new CinemaContext();
+                return myDB;
+            }
+            set { myDB = value; }
         }
-        public virtual void Insert(E entity)
+        #endregion
+
+        #region Get
+        public IQueryable<E> getAllAsQueryable()
         {
-            UnityManager.Container.Resolve<IBaseDA>().Insert(entity);
+            return (from p in MyDB.Set<E>()
+                    select p);
+        }
+        protected IQueryable<E> getAllAsQueryable(string[] includeList)
+        {
+            IQueryable<E> query = getAllAsQueryable();
+            foreach (string include in includeList)
+                query = query.Include(include);
+            return query;
+        }
+        public E GetItem(int id)
+        {
+            return getAllAsQueryable().Where(p => p.Id == id).Single(); //return Context.Set<T>().Find(id);
+        }
+        #endregion
+
+        #region Manipulate
+        public E Insert(E entity)
+        {
+            MyDB.Entry(entity).State = EntityState.Added;  //Context.Set<T>().Add(entity);
+            Save();
+            return entity;
 
         }
 
-        public virtual void Update(E entity)
+        public E Update(E entity)
         {
-            UnityManager.Container.Resolve<IBaseDA>().Update(entity);
+            MyDB.Entry(entity).State = EntityState.Modified;
+            Save();
+            return entity;
+        }
+        public bool Update()
+        {
+            //MyDB.Entry(entity).State = EntityState.Modified;
+            Save();
+            return true;
+
         }
 
-        public virtual void Delete(E entity)
+        public E Delete(E entity)
         {
-            UnityManager.Container.Resolve<IBaseDA>().Delete(entity);
+            MyDB.Entry(entity).State = EntityState.Deleted;
+            Save();
+            return entity;
+
         }
-        public virtual IQueryable GetAllAsQueryable()
+
+        public void Save()
         {
-            //return ((T)Activator.CreateInstance<T>()).getAllAsQueryable();
-            return UnityManager.Container.Resolve<IBaseDA>().getAllAsQueryable();
-            // IQueryable<T> getAllAsQueryable()
-            //{
-            //    return (from p in MyDB.Set<T>()
-            //            select p);
-            //}
+            var entities = MyDB.ChangeTracker.Entries().Where(p => p.State != EntityState.Unchanged);
+            foreach (var entity in entities)
+            {
+                try
+                {}
+                catch (Exception ex)
+                {
+                    throw;
+                }
+
+            }
+            try
+            {
+                MyDB.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+            }
+
         }
+        #endregion
+
     }
 }

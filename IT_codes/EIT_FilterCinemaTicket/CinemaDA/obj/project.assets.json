@@ -1196,11 +1196,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj",
+      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj",
       "projectName": "CinemaDA",
-      "projectPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj",
+      "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj",
       "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaDA\\obj\\",
+      "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaDA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",

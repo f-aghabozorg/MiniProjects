@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj": {}
+    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj": {
+    "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj",
+        "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj",
         "projectName": "CinemaCMN",
-        "projectPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj",
+        "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj",
         "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaCMN\\obj\\",
+        "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaCMN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",

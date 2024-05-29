@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EeJe206QmE=",
+  "dgSpecHash": "A382AN+wu5I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\EIT_Cinema\\EIT_Cinema.csproj",
+  "projectFilePath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\EIT_Cinema\\EIT_Cinema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\computer engineer\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\computer engineer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

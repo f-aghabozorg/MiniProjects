@@ -1236,11 +1236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaBL\\CinemaBL.csproj",
+      "projectUniqueName": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaBL\\CinemaBL.csproj",
       "projectName": "CinemaBL",
-      "projectPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaBL\\CinemaBL.csproj",
+      "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaBL\\CinemaBL.csproj",
       "packagesPath": "C:\\Users\\computer engineer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaBL\\obj\\",
+      "outputPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaBL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\computer engineer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1258,11 +1258,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj": {
-              "projectPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj"
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaCMN\\CinemaCMN.csproj"
             },
-            "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj": {
-              "projectPath": "C:\\Users\\computer engineer\\Desktop\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj"
+            "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj": {
+              "projectPath": "C:\\Users\\computer engineer\\Desktop\\github\\Mini Projects\\IT_codes\\EIT_FilterCinemaTicket\\CinemaDA\\CinemaDA.csproj"
             }
           }
         }
